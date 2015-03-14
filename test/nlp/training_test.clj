@@ -47,14 +47,14 @@
   (let [sentences ["Schedule a meeting with Marie Curie on November 22 2015 at 08:30pm for 2 hours to discuss X."
                    "Schedule a meeting with Adam Smith, on November 22 105 at 07:30pm for 3 hours to discuss Y."
                    "Need a meeting with Monica Bellucci on Sep 21 2015 at 02:30PM for 30 minutes to discuss Z."
-                   "Schedule a meeting with Adam Smith, on November 22 2015, at 01:30PM for 2 hours to discuss Y."
-                   "Schedule a meeting with Adam Smith, on November 22 2015, at 12:00PM for 3 hours to discuss Y."
-                   "Schedule a meeting with Adam Smith, on November 22 2015, at 10:00AM for 3 hours, to discuss Y."
+                   "Schedule a meeting with Adam Smith, on November 22 2015, at 03:30PM for 2 hours to discuss Y."
+                   "Schedule a meeting with Adam Smith, on November 22 2015, at 12:00AM for 3 hours to discuss Y."
+                   "Schedule a meeting with Adam Smith, on November 22 2015, at 02:00AM for 3 hours, to discuss Y."
                    "Schedule a meeting with Adam Smith, on November 22 2015, at 08:30PM for 5 hours , to discuss Y."
                   ]
         name-find (nlp/make-name-finder "models/en-duration.bin")
         tokenizer (nlp/make-tokenizer "models/en-token.bin")
         ]
-  (doseq [s sentences]
+   (doseq [s sentences]
     (is (= 1 (count (name-find (tokenizer s)))))
-    ) ))
+    )))
