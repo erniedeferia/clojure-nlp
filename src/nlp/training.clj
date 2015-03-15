@@ -96,41 +96,63 @@
 
 (defn- generate-sentence
   "Generates a single sentence with the following specification.
-   [Request-Clause] [Participant-Clause] [DateTime-Clause] [Duration-Clause] [Subject-Clause].
-   Where each of the clauses is generated randomly from a possible set of pre-defined values.
-   An example: [Please schedule a meeting] [with Adam Smith and Sonya Smith] [on January 2016
-   at 1:30pm] [for 1 hour] [to discuss x, y and z]."
-  [is-training]
-  (let [last-names (read-file last-name-file)
-        first-names (read-file first-name-file)
-        request-clauses (read-file request-clause-file)
-        subject-clauses (read-file subject-clause-file)
-        sentence      (str (generate-request-clause request-clauses)
+    [Request-Clause]
+    [Participant-Clause]
+    [DateTime-Clause]
+    [Duration-Clause]
+    [Subject-Clause].
+
+   Where each of the clauses is generated randomly from a possible
+   set of pre-defined values. An example:
+
+      [Please schedule a meeting]
+      [with Adam Smith and Sonya Smith]
+      [on January 2016 at 1:30pm]
+      [for 1 hour] [to discuss x, y and z].
+
+   Parameters:
+     is-training: whether the sentence is being for training
+                  or not (cross-validation)
+     afn:         array of first names
+     aln:         array of last names
+     areq:        array of requests
+     asub:        array of subjects
+   "
+  [is-training afn aln areq asub ]
+
+  (str (generate-request-clause areq)
                            " "
-                           (generate-participants-clause last-names first-names)
+                           (generate-participants-clause aln afn)
                            " on "
                            (generate-datetime)
-                           ;; (rand-comma)
                            " for "
                            (if is-training " <START:duration> " " ")
                            (generate-duration)
                            (if is-training" <END> " " " )
-                           ;; (rand-comma)
-                           (generate-subject subject-clauses)
+                           (generate-subject asub)
                            "."
-                           )]
- ;;   (print sentence)
-    sentence
-    )
-  )
+                           ))
 
 (defn- generate-sentences
   "Generate and writes [count] training sentences to [file],
    one per line."
   [cnt filename]
-  (let [file_name (str filename) ] ;; coerse the filename parameter to a string to avoid being mistaken for input stream.
+  ;; coerse the filename parameter to a string to avoid being
+  ;; mistaken for input stream.
+  (let [file_name (str filename)
+        last-names (read-file last-name-file)
+        first-names (read-file first-name-file)
+        request-clauses (read-file request-clause-file)
+        subject-clauses (read-file subject-clause-file)
+        ]
     (with-open [wrt (io/writer file_name )]
-      (doseq [sentence (take cnt (repeatedly #(generate-sentence true))) ]
+      (doseq [sentence (take cnt
+                             (repeatedly
+                              #(generate-sentence true
+                                                  first-names
+                                                  last-names
+                                                  request-clauses
+                                                  subject-clauses))) ]
         (.write wrt (str sentence "\n" )) ;; write line to file
         ))
     )
@@ -163,12 +185,22 @@
    model to extract the Duration entity from each. The efficacy of the
    model is described by the success/total ratio."
   [sample-count]
-  (let [ success   (reduce +
+  (let [
+        aln (read-file last-name-file)
+        afn (read-file first-name-file)
+        areqs (read-file request-clause-file)
+        asubs (read-file subject-clause-file)
+        success   (reduce +
                            (take sample-count
                                  (repeatedly
                                   #(count (nlp.core/duration-find
                                            (nlp.core/tokenize
-                                            (generate-sentence false)))))))
+                                            (generate-sentence false
+                                                               afn
+                                                               aln
+                                                               areqs
+                                                               asubs
+                                                               )))))))
 
         ]
     (/ (float success) (float sample-count))

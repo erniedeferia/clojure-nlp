@@ -51,18 +51,11 @@
   (ttf/parse multi-parser s-date)
 )
 
-
 (defn parse-duration
   [tokens]
-  (let [duration-tokens (str/split (first (default-duration (duration-find tokens) ) )  #"\s+") ]
+  (let [duration-tokens (str/split (first (duration-find tokens) )  #"\s+") ]
     {:duration (first duration-tokens) :time (second duration-tokens) }
        ))
-
-(defn default-duration
-  "A hedge against a misbehaved Duration model. If the duration token(s) is not
-  detected, then default to 1 hour."
-  [tokens]
-  (if (or (nil? tokens) (= 0 (count tokens)))  '("1 hour") tokens))
 
 (defn parse-message
   "Parse the message and extract people and start time for the calendar event.
