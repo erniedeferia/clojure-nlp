@@ -1,36 +1,34 @@
-# nlp
+# Clojure-NLP
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+This is a Clojure project that explores the capabilities of the OpenNLP Java Library via the clojure-opennlp library.
+It's purpose is to translate a request to schedule a calendar event - an appointment or meeting - from plain text
+into some form of structured data.
 
 ## Usage
 
-FIXME: explanation
+From the REPL, with Leiningen:
 
-    $ java -jar nlp-0.1.0-standalone.jar [args]
+    $ lein repl
 
-## Options
+    nlp.core=>  (parse-messsage "Schedule an appointment with Susan Rice on July 22 2015 at 3:15PM to discuss foreign affairs")
 
-FIXME: listing of options this app accepts.
+## More Documentation
 
-## Examples
+These blog entries describe the code in-depth and includes many examples.
 
-...
+[From Natural Language to Calendar Entries, with Clojure] (http://edeferia.blogspot.com/2015/03/from-natural-language-to-calendar.html)
 
-### Bugs
+[From Natural Language to Calendar Entries with Clojure - Part 2] (http://edeferia.blogspot.com/2015/03/from-natural-language-to-calendar_15.html)
 
-...
+### Known Issues
 
-### Any Other Sections
-### That You Think
-### Might be Useful
+As of March 15, 2015: The date finder model is not robust enough to handle all typical date format. More specifically, the time
+component of a datetime can only be parsed if the hours are expessed in HH format - 2 digits. Thus, instead of 2:00PM, one would
+need 02:00PM.
+
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Ernie de Feria
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License - v 1.0. See file COPYING.

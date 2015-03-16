@@ -26,6 +26,7 @@
                    "YYYY/MM/dd 'at' hh:mma"
                    "MMM d yyyy"
                    "MMM d yyyy 'at' hh:mma"
+                   "MMM d yyyy 'at' hh:mm a"
                    "MMM d yyyy hh:mma" ))
 
 
