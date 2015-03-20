@@ -17,7 +17,6 @@
 (def subject-clause-file  "resources/subject-clauses")
 (def custom-formatter     (ttf/formatter "MMMM d yyyy 'at' hh:mma"))
 
-
 (defn- read-file
  "Read entire content of file and split by lines.
   Returns array of lines."
@@ -193,8 +192,8 @@
         success   (reduce +
                            (take sample-count
                                  (repeatedly
-                                  #(count (nlp.core/duration-find
-                                           (nlp.core/tokenize
+                                  #(count (@nlp.core/duration-find
+                                           (@nlp.core/tokenize
                                             (generate-sentence false
                                                                afn
                                                                aln
