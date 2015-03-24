@@ -217,7 +217,7 @@
     (train-duration-model sentences-filename output-filename)
     ))
 
-(defn cross-validate-duration-model
+(defn test-duration-model
   "Cross-validates the model by generating a set of sentences using the
    same rules as those used for training and then using the trained
    model to extract the Duration entity from each. The efficacy of the

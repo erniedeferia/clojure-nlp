@@ -14,8 +14,9 @@
 (def detokenize    (delay (make-detokenizer "models/english-detokenizer.xml")))
 (def pos-tag       (delay (make-pos-tagger "models/en-pos-maxent.bin")))
 (def name-find     (delay (make-name-finder "models/namefind/en-ner-person.bin")))
-(def date-find     (delay (make-name-finder "models/namefind/en-ner-date.bin")))
-(def time-find     (delay (make-name-finder "models/namefind/en-ner-time.bin")))
+;;(def date-find     (delay (make-name-finder "models/namefind/en-ner-date.bin")))
+;;(def time-find     (delay (make-name-finder "models/namefind/en-ner-time.bin")))
+(def date-find     (delay (make-name-finder "models/en-event-datetime.bin")))
 (def duration-find (delay (make-name-finder "models/en-duration.bin")))
 
 (def multi-parser (ttf/formatter

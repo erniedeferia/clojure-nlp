@@ -63,8 +63,7 @@
                              (repeatedly
                               #(nlp.training/generate-sentence data generators))) ]
         (.write wrt (str sentence "\n" )) ;; write line to file
-        ))
-    ))
+        ))))
 
 
 (defn train-datetime-model
@@ -72,8 +71,7 @@
   (let [datetime-finder-model (train/train-name-finder training-filename)]
     (nlp.training/store-model-file datetime-finder-model
                                    output-filename)
-    )
-  )
+    ))
 
 (defn create-datetime-model
   []
@@ -85,3 +83,36 @@
                                               sentences-filename)
     (train-datetime-model sentences-filename
                           output-filename)))
+
+
+(defn test-event-datetime-model
+  "Cross-validates the model by generating a set of sentences using the
+   same rules as those used for training and then using the trained
+   model to extract the Duration entity from each. The efficacy of the
+   model is described by the success/total ratio."
+  [sample-count]
+  (let [
+        datetime-find     (nlp/make-name-finder "models/en-event-datetime.bin")
+        last-names        (nlp.training/read-file  nlp.training/last-name-file)
+        first-names       (nlp.training/read-file  nlp.training/first-name-file)
+        request-clauses   (nlp.training/read-file  nlp.training/request-clause-file)
+        subject-clauses   (nlp.training/read-file  nlp.training/subject-clause-file)
+        data {:data-lastnames last-names
+              :data-firstname last-names
+              :data-requests  request-clauses
+              :data-subjects  subject-clauses}
+        generators {:gen-datetime nlp.training/generate-datetime
+                    :gen-duration nlp.training/generate-duration
+                    :gen-subject  nlp.training/generate-subject
+                    :gen-request  nlp.training/generate-request-clause}
+        success   (reduce +
+                           (take sample-count
+                                 (repeatedly
+                                  #(count (datetime-find
+                                           (@nlp.core/tokenize
+                                            (nlp.training/generate-sentence
+                                                 data
+                                                generators)))))))]
+    (/ (float success) (float sample-count))
+    )
+  )
