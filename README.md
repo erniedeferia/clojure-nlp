@@ -12,7 +12,7 @@ From the REPL, with Leiningen:
 
     nlp.core=>  (parse-messsage "Schedule an appointment with Susan Rice on July 22 2015 at 3:15PM to discuss foreign affairs")
 
-<iframe height="480" src="http://showterm.io/060ded2b1ae257902d062#fast" width="740"></iframe>
+<iframe height="480" src="http://showterm.io/060ded2b1ae257902d062#fast" width="740" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## More Documentation
 
