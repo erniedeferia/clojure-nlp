@@ -20,6 +20,9 @@ These blog entries describe the code in-depth and includes many examples.
 
 [From Natural Language to Calendar Entries with Clojure - Part 2] (http://edeferia.blogspot.com/2015/03/from-natural-language-to-calendar_15.html)
 
+[From Natural Language to Calendar Entries with Clojure - Part 3]
+(http://edeferia.blogspot.com/2015/03/from-natural-language-to-calendar_26.html)
+
 ### Known Issues
 
 As of March 15, 2015: The date finder model is not robust enough to handle all typical date format. More specifically, the time
