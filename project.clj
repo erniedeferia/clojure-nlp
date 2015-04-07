@@ -6,6 +6,7 @@
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [clojure-opennlp "0.3.3"]
                  [clj-time "0.9.0"]]
+  :plugins [[cider/cider-nrepl "0.8.2"]]
   :main ^:skip-aot nlp.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})

@@ -1,0 +1,1000 @@
+Schedule an appointment with  Ferguson and  Hunter on <START:datetime> May 26 2015 at 2:00 PM <END> for 7 hours to chat about the case . 
+Create a meeting with  Carr,  Dyer, and  Churchill on <START:datetime> Jan 7 2016 at 2:45 PM <END> for 8 hours to discuss our hiring process . 
+Schedule an appointment with  Edmunds on <START:datetime> February 8 2016 at 07:15AM <END> for 7 hours to talk about our hiring process . 
+Please schedule an appointment with  Dickens,  Greene, and  Wallace on <START:datetime> November 28 2015 at 08:45AM <END> for 7 hours to discuss our QA approach . 
+Please schedule a meeting with  Hamilton and  Taylor on <START:datetime> May 28 2015 at 2:15 AM <END> for 1 hour to discuss our hiring process . 
+Please schedule a meeting with  Bell and  Sanderson on <START:datetime> October 11 2015 at 03:00PM <END> for 8 hours to discuss our hiring process . 
+Need a meeting with  Hamilton on <START:datetime> Oct 17 2015 at 2:15 AM <END> for 9 hours to review the summary statistics . 
+Schedule an appointment with  Marshall on <START:datetime> Feb 24 2016 at 12:45PM <END> for 3 hours to talk about our hiring process . 
+Please create a meeting with  Paige,  Oliver, and  Nolan on <START:datetime> Jun 3 2015 at 5:30 PM <END> for 30 minutes to fine tune our pitch . 
+Please schedule a meeting with  Pullman on <START:datetime> Mar 20 2016 at 4:30PM <END> for 45 minutes to fine tune the points . 
+Please create a meeting with  Hodges on <START:datetime> November 23 2015 at 12:15 PM <END> for 5 hours to fine tune the points . 
+Need an appointment with  Young on <START:datetime> January 10 2016 at 3:10 AM <END> for 5 hours to discuss our testing strategy . 
+Need an appointment with  Sanderson,  Johnston, and  Howard on <START:datetime> Feb 13 2016 at 7:00AM <END> for 2 hours to brainstorm about the contract . 
+Please schedule an appointment with  Roberts and  Berry on <START:datetime> Apr 21 2015 at 5:10 PM <END> for 30 minutes to discuss our QA approach . 
+Create an appointment with  Fisher,  Smith, and  Newman on <START:datetime> January 4 2016 at 5:15 AM <END> for 6 hours to brainstorm about the main topic . 
+Need an appointment with  Kelly and  King on <START:datetime> Jun 22 2015 at 10:30 PM <END> for 1 hour to discuss world peace . 
+Please schedule an appointment with  Graham on <START:datetime> Feb 29 2016 at 9:45 AM <END> for 1 hour to brainstorm about the main topic . 
+Please create a meeting with  Howard,  Newman, and  Underwood on <START:datetime> Aug 6 2015 at 9:00 AM <END> for 45 minutes to have a brief discussion . 
+Create a meeting with  Gill and  Morgan on <START:datetime> July 2 2015 at 10:00PM <END> for 10 hours to have a brief discussion . 
+Please create an appointment with  Gray,  Coleman, and  Grant on <START:datetime> September 7 2015 at 06:15AM <END> for 6 hours to talk about our hiring process . 
+Create a meeting with  Mathis,  Hardacre, and  Ferguson on <START:datetime> July 17 2015 at 12:30 AM <END> for 6 hours to brainstorm about the main topic . 
+Need an appointment with  Langdon on <START:datetime> Jul 2 2015 at 5:30AM <END> for 9 hours to have a brief discussion . 
+Create an appointment with  Coleman and  Smith on <START:datetime> Jan 20 2016 at 6:15AM <END> for 5 hours to discuss our testing strategy . 
+Schedule a meeting with  Oliver,  Slater, and  King on <START:datetime> December 30 2015 at 6:10 AM <END> for 9 hours to discuss our hiring process . 
+Need a meeting with  Glover,  Paterson, and  Russell on <START:datetime> March 14 2016 at 5:10 PM <END> for 1 hour to review the summary statistics . 
+Schedule a meeting with  Short,  Burgess, and  Lee on <START:datetime> May 29 2015 at 1:30 AM <END> for 45 minutes to brainstorm about our testing strategy . 
+Please schedule a meeting with  Harris,  Paige, and  MacDonald on <START:datetime> May 3 2015 at 03:00PM <END> for 30 minutes to have a brief discussion . 
+Schedule a meeting with  Bailey on <START:datetime> Oct 15 2015 at 2:15 AM <END> for 3 hours to discuss world peace . 
+Create a meeting with  Vance,  Piper, and  Grant on <START:datetime> Feb 28 2016 at 3:10PM <END> for 6 hours to discuss our testing strategy . 
+Please schedule a meeting with  Thomson and  Dickens on <START:datetime> July 26 2015 at 10:15PM <END> for 45 minutes to fine tune our pitch . 
+Need a meeting with  Grant on <START:datetime> January 7 2016 at 11:45PM <END> for 3 hours to brainstorm about our testing strategy . 
+Please create an appointment with  Abraham and  MacLeod on <START:datetime> Jun 21 2015 at 6:15 PM <END> for 7 hours to brainstorm about the contract . 
+Please schedule an appointment with  Arnold and  Hodges on <START:datetime> March 14 2016 at 12:10AM <END> for 1 hour to fine tune the points . 
+Schedule an appointment with  Fisher,  Sutherland, and  Bell on <START:datetime> October 18 2015 at 10:45 AM <END> for 7 hours to discuss world peace . 
+Please schedule an appointment with  Ross on <START:datetime> May 28 2015 at 10:00AM <END> for 1 hour to discuss the contract . 
+Please create an appointment with  Marshall,  Cornish, and  Hamilton on <START:datetime> Apr 26 2015 at 8:10 AM <END> for 7 hours to brainstorm about our QA strategy . 
+Please create a meeting with  Duncan,  Hill, and  Gibson on <START:datetime> Jul 19 2015 at 3:30 AM <END> for 10 hours to discuss economic trends . 
+Please create a meeting with  Kerr,  Dowd, and  Hodges on <START:datetime> Sep 19 2015 at 2:45PM <END> for 10 hours to have a brief discussion . 
+Schedule a meeting with  Bond on <START:datetime> October 19 2015 at 08:30PM <END> for 7 hours to discuss the contract . 
+Schedule a meeting with  Nolan,  Rutherford, and  Anderson on <START:datetime> May 26 2015 at 5:10 PM <END> for 9 hours to discuss our hiring process . 
+Need a meeting with  Mathis on <START:datetime> March 11 2016 at 5:10 AM <END> for 4 hours to review the summary statistics . 
+Create a meeting with  Bell,  Welch, and  Abraham on <START:datetime> December 4 2015 at 06:30PM <END> for 4 hours to fine tune the points . 
+Schedule a meeting with  Mills and  Black on <START:datetime> June 14 2015 at 01:10AM <END> for 15 minutes to discuss our QA approach . 
+Please create a meeting with  Martin,  Peake, and  Cornish on <START:datetime> Oct 11 2015 at 7:45PM <END> for 30 minutes to talk about our hiring process . 
+Schedule an appointment with  Mathis,  Lambert, and  Coleman on <START:datetime> August 3 2015 at 10:30AM <END> for 3 hours to brainstorm about the main topic . 
+Create a meeting with  Tucker,  Howard, and  Hunter on <START:datetime> October 7 2015 at 1:30 PM <END> for 5 hours to review the summary statistics . 
+Please schedule a meeting with  Lambert on <START:datetime> Feb 16 2016 at 12:10PM <END> for 9 hours to discuss the contract . 
+Schedule an appointment with  Turner,  Langdon, and  Abraham on <START:datetime> March 14 2016 at 03:15AM <END> for 4 hours to chat about the case . 
+Need an appointment with  Mackenzie on <START:datetime> May 10 2015 at 2:00 PM <END> for 4 hours to fine tune our pitch . 
+Schedule an appointment with  Stewart,  Piper, and  Lee on <START:datetime> January 13 2016 at 9:30 PM <END> for 45 minutes to have a brief discussion . 
+Schedule a meeting with  Alsop on <START:datetime> November 4 2015 at 6:45 AM <END> for 15 minutes to fine tune our pitch . 
+Please create an appointment with  Thomson and  Fisher on <START:datetime> June 11 2015 at 12:30 AM <END> for 9 hours to have a brief discussion . 
+Schedule an appointment with  Walsh on <START:datetime> June 4 2015 at 12:15AM <END> for 7 hours to discuss our QA approach . 
+Create a meeting with  Duncan and  MacDonald on <START:datetime> Mar 10 2016 at 12:10 AM <END> for 6 hours to brainstorm about our testing strategy . 
+Need a meeting with  Hardacre,  Oliver, and  Greene on <START:datetime> Jan 3 2016 at 4:30PM <END> for 2 hours to discuss world peace . 
+Schedule an appointment with  Springer on <START:datetime> July 4 2015 at 2:30 PM <END> for 10 hours to discuss economic trends . 
+Schedule an appointment with  Ellison on <START:datetime> Apr 12 2015 at 4:15 AM <END> for 3 hours to fine tune the points . 
+Create a meeting with  Newman and  Lambert on <START:datetime> March 29 2015 at 05:30AM <END> for 30 minutes to discuss our QA approach . 
+Please create a meeting with  Gill,  Morrison, and  Cornish on <START:datetime> May 7 2015 at 4:00AM <END> for 6 hours to discuss economic trends . 
+Schedule an appointment with  Forsyth on <START:datetime> Dec 19 2015 at 3:30AM <END> for 10 hours to discuss our QA approach . 
+Please schedule an appointment with  Knox on <START:datetime> July 14 2015 at 4:15 AM <END> for 3 hours to review the summary statistics . 
+Please create an appointment with  Brown on <START:datetime> Apr 18 2015 at 12:00AM <END> for 10 hours to fine tune the points . 
+Please create an appointment with  Robertson and  Forsyth on <START:datetime> Oct 27 2015 at 6:15 AM <END> for 3 hours to brainstorm about our QA strategy . 
+Create a meeting with  Robertson and  Piper on <START:datetime> Aug 20 2015 at 5:30 AM <END> for 5 hours to talk about our hiring process . 
+Schedule an appointment with  Henderson and  Rutherford on <START:datetime> Mar 10 2016 at 9:10 PM <END> for 2 hours to brainstorm about the main topic . 
+Need a meeting with  Cornish and  Russell on <START:datetime> Apr 4 2015 at 10:30 AM <END> for 4 hours to chat about the case . 
+Please create a meeting with  Peters and  McLean on <START:datetime> June 16 2015 at 10:00 PM <END> for 1 hour to have a brief discussion . 
+Please create a meeting with  White,  Ross, and  Oliver on <START:datetime> Dec 22 2015 at 3:30 AM <END> for 1 hour to discuss our testing strategy . 
+Need a meeting with  Blake,  Blake, and  Russell on <START:datetime> Apr 4 2015 at 5:00AM <END> for 6 hours to review the summary statistics . 
+Schedule a meeting with  Thomson and  Fisher on <START:datetime> August 4 2015 at 7:10 PM <END> for 45 minutes to discuss economic trends . 
+Please schedule an appointment with  Buckland and  Roberts on <START:datetime> Feb 17 2016 at 8:10 AM <END> for 5 hours to fine tune the points . 
+Need an appointment with  Cornish and  Ball on <START:datetime> December 31 2015 at 02:10AM <END> for 6 hours to brainstorm about our QA strategy . 
+Need an appointment with  Allan,  Chapman, and  Cameron on <START:datetime> June 16 2015 at 9:45 PM <END> for 2 hours to have a brief discussion . 
+Please create a meeting with  Arnold on <START:datetime> Feb 10 2016 at 7:00AM <END> for 5 hours to brainstorm about the contract . 
+Schedule an appointment with  Hardacre,  Abraham, and  Coleman on <START:datetime> Aug 15 2015 at 5:45AM <END> for 1 hour to chat about the case . 
+Create a meeting with  Jackson,  Mackay, and  Sanderson on <START:datetime> November 30 2015 at 08:30AM <END> for 3 hours to discuss the contract . 
+Please create a meeting with  Turner on <START:datetime> October 20 2015 at 3:30 AM <END> for 4 hours to discuss our QA approach . 
+Need a meeting with  King and  Bell on <START:datetime> Sep 21 2015 at 6:10PM <END> for 6 hours to fine tune the points . 
+Create a meeting with  Sharp on <START:datetime> December 19 2015 at 10:15 PM <END> for 3 hours to fine tune our pitch . 
+Need a meeting with  Lee on <START:datetime> Nov 23 2015 at 6:10 AM <END> for 45 minutes to review the summary statistics . 
+Please create a meeting with  Campbell,  Berry, and  Avery on <START:datetime> July 8 2015 at 7:45 AM <END> for 5 hours to fine tune our pitch . 
+Please create a meeting with  Ferguson on <START:datetime> November 14 2015 at 10:30PM <END> for 6 hours to fine tune our pitch . 
+Please schedule a meeting with  Ince on <START:datetime> March 16 2016 at 2:30 PM <END> for 45 minutes to review the summary statistics . 
+Please create an appointment with  Martin on <START:datetime> April 27 2015 at 05:15PM <END> for 1 hour to brainstorm about the contract . 
+Create a meeting with  Fraser,  Hart, and  Bell on <START:datetime> Jun 30 2015 at 9:30 PM <END> for 2 hours to discuss the contract . 
+Please create an appointment with  Langdon,  Ince, and  Ross on <START:datetime> July 22 2015 at 5:15 PM <END> for 2 hours to fine tune our pitch . 
+Please create a meeting with  Newman on <START:datetime> June 1 2015 at 6:45 PM <END> for 30 minutes to talk about our hiring process . 
+Please schedule an appointment with  Wilkins on <START:datetime> Apr 29 2015 at 4:10 AM <END> for 7 hours to review the summary statistics . 
+Schedule a meeting with  Sanderson,  Reid, and  Hamilton on <START:datetime> Apr 18 2015 at 5:30 AM <END> for 30 minutes to brainstorm about the contract . 
+Create an appointment with  Short on <START:datetime> Sep 21 2015 at 1:10 PM <END> for 3 hours to chat about the case . 
+Schedule a meeting with  Ellison,  Mackay, and  MacDonald on <START:datetime> August 5 2015 at 7:30 AM <END> for 9 hours to brainstorm about our QA strategy . 
+Need an appointment with  Welch,  Allan, and  Avery on <START:datetime> Feb 12 2016 at 5:30PM <END> for 9 hours to discuss the contract . 
+Please schedule a meeting with  Fisher on <START:datetime> Jun 24 2015 at 2:10 PM <END> for 5 hours to brainstorm about our QA strategy . 
+Create a meeting with  Underwood,  Edmunds, and  Vance on <START:datetime> Jul 6 2015 at 5:10AM <END> for 5 hours to talk about our hiring process . 
+Please schedule an appointment with  Allan and  King on <START:datetime> May 30 2015 at 10:45 PM <END> for 15 minutes to review the summary statistics . 
+Need a meeting with  Morgan,  Bower, and  Burgess on <START:datetime> Nov 25 2015 at 7:10 PM <END> for 1 hour to discuss economic trends . 
+Need an appointment with  Hemmings,  Bond, and  Marshall on <START:datetime> June 7 2015 at 06:45AM <END> for 10 hours to discuss world peace . 
+Schedule an appointment with  Ferguson and  MacDonald on <START:datetime> January 26 2016 at 12:10 AM <END> for 5 hours to discuss our hiring process . 
+Need an appointment with  Powell,  Roberts, and  Metcalfe on <START:datetime> February 29 2016 at 9:30 PM <END> for 15 minutes to review the summary statistics . 
+Create an appointment with  Vance and  Miller on <START:datetime> December 26 2015 at 5:10 PM <END> for 5 hours to chat about the case . 
+Please schedule an appointment with  Watson,  Vaughan, and  Terry on <START:datetime> January 8 2016 at 12:30AM <END> for 30 minutes to fine tune our pitch . 
+Need a meeting with  Wilson and  Clark on <START:datetime> October 4 2015 at 04:45PM <END> for 8 hours to brainstorm about the contract . 
+Need an appointment with  James on <START:datetime> March 14 2016 at 06:30AM <END> for 4 hours to fine tune our pitch . 
+Create an appointment with  Hughes on <START:datetime> Nov 3 2015 at 11:45 PM <END> for 30 minutes to brainstorm about our QA strategy . 
+Create a meeting with  Slater on <START:datetime> Oct 30 2015 at 8:30PM <END> for 2 hours to brainstorm about the contract . 
+Please create an appointment with  Clarkson and  Hudson on <START:datetime> Nov 30 2015 at 4:45 AM <END> for 9 hours to discuss economic trends . 
+Please create an appointment with  Morgan on <START:datetime> September 15 2015 at 04:00PM <END> for 45 minutes to discuss our QA approach . 
+Create a meeting with  Howard on <START:datetime> June 1 2015 at 03:10AM <END> for 7 hours to discuss the contract . 
+Please schedule a meeting with  Miller on <START:datetime> Oct 16 2015 at 7:45AM <END> for 9 hours to chat about the case . 
+Schedule an appointment with  Berry and  Powell on <START:datetime> Nov 10 2015 at 6:00PM <END> for 10 hours to discuss our testing strategy . 
+Need a meeting with  Pullman,  Hodges, and  Berry on <START:datetime> Jul 23 2015 at 2:45 PM <END> for 10 hours to review the summary statistics . 
+Create an appointment with  Thomson,  Langdon, and  Baker on <START:datetime> December 22 2015 at 04:10PM <END> for 2 hours to brainstorm about our testing strategy . 
+Please schedule a meeting with  Dyer,  Hunter, and  Springer on <START:datetime> Jun 29 2015 at 9:15 PM <END> for 8 hours to discuss economic trends . 
+Create an appointment with  Anderson and  Clark on <START:datetime> January 15 2016 at 10:10PM <END> for 10 hours to talk about our hiring process . 
+Please schedule a meeting with  Terry and  Welch on <START:datetime> April 23 2015 at 10:00AM <END> for 2 hours to chat about the case . 
+Please schedule a meeting with  Carr and  Ince on <START:datetime> Oct 10 2015 at 4:15 PM <END> for 45 minutes to brainstorm about the contract . 
+Please schedule a meeting with  Rees on <START:datetime> June 10 2015 at 11:00 AM <END> for 10 hours to brainstorm about the main topic . 
+Create an appointment with  Sanderson,  MacDonald, and  Young on <START:datetime> Oct 18 2015 at 2:10AM <END> for 30 minutes to discuss world peace . 
+Schedule an appointment with  Skinner on <START:datetime> September 20 2015 at 9:00 PM <END> for 3 hours to brainstorm about the contract . 
+Schedule an appointment with  Hemmings and  Dowd on <START:datetime> December 2 2015 at 11:15PM <END> for 5 hours to fine tune the points . 
+Need an appointment with  Rutherford on <START:datetime> May 22 2015 at 10:15AM <END> for 30 minutes to discuss our testing strategy . 
+Schedule a meeting with  Ellison and  Greene on <START:datetime> March 28 2015 at 05:45PM <END> for 15 minutes to brainstorm about the contract . 
+Schedule an appointment with  Ince,  Bell, and  Underwood on <START:datetime> September 19 2015 at 7:10 AM <END> for 5 hours to discuss our QA approach . 
+Please create a meeting with  Jackson on <START:datetime> September 6 2015 at 12:30 AM <END> for 2 hours to brainstorm about our QA strategy . 
+Need an appointment with  Oliver,  Abraham, and  MacLeod on <START:datetime> June 18 2015 at 8:45 PM <END> for 1 hour to discuss the contract . 
+Please create a meeting with  Morgan and  Hodges on <START:datetime> October 14 2015 at 02:00AM <END> for 9 hours to brainstorm about the contract . 
+Please create an appointment with  Harris and  Rampling on <START:datetime> September 5 2015 at 05:00PM <END> for 2 hours to chat about the case . 
+Need an appointment with  Carr on <START:datetime> September 30 2015 at 03:45AM <END> for 3 hours to brainstorm about our QA strategy . 
+Create a meeting with  Churchill on <START:datetime> July 4 2015 at 9:45 PM <END> for 30 minutes to discuss our testing strategy . 
+Need a meeting with  Cameron,  McGrath, and  Cameron on <START:datetime> Dec 19 2015 at 5:45PM <END> for 2 hours to discuss the contract . 
+Create an appointment with  Jones on <START:datetime> July 1 2015 at 03:30AM <END> for 30 minutes to brainstorm about our QA strategy . 
+Please create an appointment with  Rampling,  Martin, and  Piper on <START:datetime> Nov 28 2015 at 9:30PM <END> for 5 hours to have a brief discussion . 
+Create an appointment with  Young on <START:datetime> Jun 15 2015 at 1:10 AM <END> for 1 hour to brainstorm about the contract . 
+Schedule an appointment with  Dickens,  Nash, and  North on <START:datetime> May 15 2015 at 3:00 PM <END> for 30 minutes to brainstorm about our testing strategy . 
+Need an appointment with  Harris on <START:datetime> Dec 13 2015 at 8:00AM <END> for 5 hours to talk about our hiring process . 
+Need a meeting with  Stewart and  Jones on <START:datetime> Oct 4 2015 at 2:45 AM <END> for 1 hour to brainstorm about the main topic . 
+Create an appointment with  White on <START:datetime> November 22 2015 at 10:15 AM <END> for 10 hours to discuss our testing strategy . 
+Create a meeting with  Walsh,  Hardacre, and  Jackson on <START:datetime> Jun 11 2015 at 2:10PM <END> for 3 hours to discuss our QA approach . 
+Create an appointment with  Marshall on <START:datetime> Dec 2 2015 at 3:00AM <END> for 6 hours to review the summary statistics . 
+Create a meeting with  Glover and  Bower on <START:datetime> Jul 11 2015 at 10:10AM <END> for 30 minutes to discuss world peace . 
+Need a meeting with  Chapman,  Lawrence, and  Dowd on <START:datetime> Nov 26 2015 at 4:00 PM <END> for 5 hours to chat about the case . 
+Schedule a meeting with  Rees on <START:datetime> July 23 2015 at 8:10 AM <END> for 8 hours to brainstorm about the contract . 
+Please create a meeting with  Scott on <START:datetime> May 22 2015 at 4:10 AM <END> for 1 hour to brainstorm about our QA strategy . 
+Need a meeting with  Kelly and  Wright on <START:datetime> Jul 13 2015 at 3:00 AM <END> for 7 hours to have a brief discussion . 
+Please schedule an appointment with  Sanderson on <START:datetime> Mar 7 2016 at 2:15PM <END> for 45 minutes to brainstorm about the contract . 
+Please create an appointment with  Black and  Terry on <START:datetime> March 29 2015 at 6:00 PM <END> for 6 hours to brainstorm about the contract . 
+Please create a meeting with  Chapman,  Davidson, and  Lee on <START:datetime> Mar 18 2016 at 5:10 AM <END> for 8 hours to discuss our testing strategy . 
+Create an appointment with  Mackenzie and  Rutherford on <START:datetime> Jan 30 2016 at 6:10PM <END> for 30 minutes to fine tune the points . 
+Need a meeting with  Butler on <START:datetime> January 4 2016 at 06:10PM <END> for 8 hours to fine tune the points . 
+Please schedule an appointment with  Mackay and  Piper on <START:datetime> August 11 2015 at 06:10AM <END> for 15 minutes to discuss our hiring process . 
+Need an appointment with  Fisher on <START:datetime> December 31 2015 at 10:30 PM <END> for 7 hours to discuss our QA approach . 
+Please schedule an appointment with  Ince,  Dickens, and  Hunter on <START:datetime> Nov 17 2015 at 9:15 PM <END> for 5 hours to review the summary statistics . 
+Please create an appointment with  Baker,  Chapman, and  Vance on <START:datetime> Sep 9 2015 at 4:45AM <END> for 8 hours to discuss our hiring process . 
+Schedule a meeting with  Langdon on <START:datetime> September 13 2015 at 12:10AM <END> for 9 hours to discuss economic trends . 
+Need a meeting with  Lee on <START:datetime> Aug 25 2015 at 1:15 PM <END> for 7 hours to discuss our testing strategy . 
+Please schedule an appointment with  Robertson,  Berry, and  Blake on <START:datetime> Aug 16 2015 at 3:10AM <END> for 30 minutes to brainstorm about the main topic . 
+Please schedule a meeting with  Carr,  Ellison, and  Lambert on <START:datetime> June 1 2015 at 11:00 PM <END> for 15 minutes to discuss economic trends . 
+Please create an appointment with  Marshall on <START:datetime> February 14 2016 at 4:15 PM <END> for 8 hours to brainstorm about the main topic . 
+Need a meeting with  Fisher,  Coleman, and  Chapman on <START:datetime> May 9 2015 at 7:10 PM <END> for 6 hours to have a brief discussion . 
+Need a meeting with  Lyman,  Fraser, and  Murray on <START:datetime> Jul 3 2015 at 1:15PM <END> for 15 minutes to discuss the contract . 
+Create a meeting with  Quinn on <START:datetime> Oct 8 2015 at 9:15AM <END> for 3 hours to talk about our hiring process . 
+Please create an appointment with  Ferguson on <START:datetime> October 5 2015 at 01:45AM <END> for 3 hours to discuss the contract . 
+Schedule a meeting with  Lawrence on <START:datetime> Oct 12 2015 at 3:45PM <END> for 45 minutes to discuss our QA approach . 
+Need an appointment with  Lambert on <START:datetime> November 18 2015 at 10:00PM <END> for 4 hours to brainstorm about the main topic . 
+Please schedule a meeting with  Morrison,  Baker, and  Powell on <START:datetime> March 27 2015 at 07:10PM <END> for 2 hours to brainstorm about the main topic . 
+Schedule a meeting with  Dyer on <START:datetime> January 24 2016 at 10:00 PM <END> for 3 hours to fine tune our pitch . 
+Need a meeting with  Lyman on <START:datetime> Mar 23 2015 at 11:30 PM <END> for 5 hours to discuss our testing strategy . 
+Please schedule a meeting with  Wallace and  Skinner on <START:datetime> Dec 25 2015 at 1:15AM <END> for 30 minutes to fine tune our pitch . 
+Please schedule a meeting with  Clarkson on <START:datetime> January 14 2016 at 3:10 AM <END> for 8 hours to brainstorm about the main topic . 
+Need an appointment with  Martin,  Forsyth, and  Dickens on <START:datetime> Aug 3 2015 at 1:00 PM <END> for 10 hours to discuss economic trends . 
+Create a meeting with  Harris on <START:datetime> Dec 15 2015 at 2:15AM <END> for 3 hours to have a brief discussion . 
+Please schedule a meeting with  Burgess and  Anderson on <START:datetime> Sep 27 2015 at 9:45 AM <END> for 9 hours to brainstorm about our QA strategy . 
+Schedule a meeting with  Watson on <START:datetime> Jul 19 2015 at 2:10AM <END> for 7 hours to discuss our QA approach . 
+Schedule a meeting with  White on <START:datetime> August 7 2015 at 2:30 PM <END> for 45 minutes to have a brief discussion . 
+Please schedule a meeting with  Lewis and  Kelly on <START:datetime> August 17 2015 at 6:45 AM <END> for 1 hour to have a brief discussion . 
+Need a meeting with  Hill,  Robertson, and  Wilkins on <START:datetime> March 5 2016 at 5:10 PM <END> for 3 hours to fine tune the points . 
+Please create a meeting with  Russell on <START:datetime> October 4 2015 at 8:30 PM <END> for 5 hours to discuss our testing strategy . 
+Please schedule a meeting with  Campbell,  Rutherford, and  Dickens on <START:datetime> Sep 14 2015 at 5:10PM <END> for 7 hours to chat about the case . 
+Create an appointment with  Paterson and  Rees on <START:datetime> October 14 2015 at 12:45 AM <END> for 15 minutes to brainstorm about our QA strategy . 
+Please create an appointment with  Welch,  Abraham, and  Mathis on <START:datetime> Nov 19 2015 at 3:00 PM <END> for 1 hour to discuss our QA approach . 
+Schedule a meeting with  Mathis,  Ellison, and  Gray on <START:datetime> October 25 2015 at 5:10 PM <END> for 3 hours to discuss our hiring process . 
+Please create a meeting with  Nash,  Hill, and  Quinn on <START:datetime> Oct 18 2015 at 5:10PM <END> for 7 hours to brainstorm about the main topic . 
+Create a meeting with  Rampling and  Berry on <START:datetime> May 22 2015 at 4:10 PM <END> for 9 hours to fine tune our pitch . 
+Create an appointment with  North and  King on <START:datetime> February 27 2016 at 3:45 AM <END> for 3 hours to have a brief discussion . 
+Please schedule an appointment with  Skinner,  Hemmings, and  Glover on <START:datetime> Mar 28 2015 at 3:00AM <END> for 1 hour to discuss the contract . 
+Please create a meeting with  McDonald and  Vaughan on <START:datetime> January 27 2016 at 10:00PM <END> for 15 minutes to discuss our testing strategy . 
+Please schedule a meeting with  Ball and  Parsons on <START:datetime> August 22 2015 at 7:00 PM <END> for 9 hours to fine tune our pitch . 
+Please create an appointment with  Arnold on <START:datetime> October 26 2015 at 3:00 AM <END> for 8 hours to discuss the contract . 
+Please create a meeting with  Poole,  Vaughan, and  Ball on <START:datetime> Jun 15 2015 at 10:15 AM <END> for 4 hours to discuss the contract . 
+Create a meeting with  Lyman on <START:datetime> May 14 2015 at 09:00PM <END> for 5 hours to fine tune the points . 
+Create an appointment with  Arnold on <START:datetime> November 26 2015 at 11:00 AM <END> for 6 hours to chat about the case . 
+Schedule a meeting with  Peake on <START:datetime> July 1 2015 at 5:00 PM <END> for 7 hours to discuss our hiring process . 
+Create a meeting with  May and  Anderson on <START:datetime> April 16 2015 at 06:45AM <END> for 9 hours to have a brief discussion . 
+Schedule a meeting with  MacLeod on <START:datetime> April 4 2015 at 12:10 AM <END> for 45 minutes to discuss the contract . 
+Create a meeting with  Hodges on <START:datetime> Sep 18 2015 at 11:15 PM <END> for 7 hours to discuss economic trends . 
+Please schedule an appointment with  Ball on <START:datetime> August 3 2015 at 05:15AM <END> for 1 hour to fine tune the points . 
+Create a meeting with  James,  Simpson, and  Ball on <START:datetime> January 1 2016 at 3:10 PM <END> for 30 minutes to discuss our hiring process . 
+Schedule a meeting with  Roberts on <START:datetime> Jun 5 2015 at 1:45 PM <END> for 2 hours to chat about the case . 
+Schedule an appointment with  Carr and  Hodges on <START:datetime> Oct 28 2015 at 3:45PM <END> for 45 minutes to fine tune our pitch . 
+Need a meeting with  Ferguson and  Sutherland on <START:datetime> Mar 14 2016 at 12:30 PM <END> for 2 hours to talk about our hiring process . 
+Please create a meeting with  Rampling and  Hemmings on <START:datetime> October 11 2015 at 9:30 PM <END> for 9 hours to discuss our hiring process . 
+Need a meeting with  Simpson on <START:datetime> January 4 2016 at 1:15 PM <END> for 3 hours to fine tune the points . 
+Please create a meeting with  James on <START:datetime> May 20 2015 at 9:10 AM <END> for 7 hours to brainstorm about our testing strategy . 
+Need an appointment with  Langdon on <START:datetime> April 22 2015 at 04:10PM <END> for 10 hours to fine tune our pitch . 
+Please schedule an appointment with  Smith and  Gray on <START:datetime> Sep 14 2015 at 4:15 PM <END> for 1 hour to discuss world peace . 
+Schedule an appointment with  Butler and  Welch on <START:datetime> January 30 2016 at 12:30 PM <END> for 45 minutes to discuss our testing strategy . 
+Please create an appointment with  Sutherland and  Coleman on <START:datetime> November 5 2015 at 5:15 PM <END> for 3 hours to brainstorm about the contract . 
+Create an appointment with  Pullman on <START:datetime> April 3 2015 at 1:10 AM <END> for 45 minutes to discuss world peace . 
+Please create an appointment with  Oliver,  Rees, and  Henderson on <START:datetime> January 31 2016 at 05:15PM <END> for 2 hours to fine tune the points . 
+Need a meeting with  Bell,  Cornish, and  Davidson on <START:datetime> Jan 5 2016 at 11:10 PM <END> for 7 hours to review the summary statistics . 
+Create a meeting with  Mitchell on <START:datetime> September 23 2015 at 12:45 AM <END> for 30 minutes to fine tune the points . 
+Create a meeting with  Vaughan on <START:datetime> September 14 2015 at 1:45 PM <END> for 15 minutes to brainstorm about our QA strategy . 
+Schedule a meeting with  Cameron on <START:datetime> Dec 10 2015 at 3:30 AM <END> for 3 hours to brainstorm about our QA strategy . 
+Please create a meeting with  Quinn on <START:datetime> Sep 14 2015 at 7:10 PM <END> for 5 hours to brainstorm about our QA strategy . 
+Please schedule a meeting with  Wright on <START:datetime> Sep 17 2015 at 9:00 PM <END> for 30 minutes to discuss our testing strategy . 
+Please schedule a meeting with  Ross,  Forsyth, and  Bell on <START:datetime> February 19 2016 at 2:30 PM <END> for 8 hours to discuss our hiring process . 
+Need a meeting with  Johnston on <START:datetime> Apr 1 2015 at 6:10 PM <END> for 7 hours to discuss our hiring process . 
+Create an appointment with  Pullman and  Davidson on <START:datetime> Feb 26 2016 at 5:00PM <END> for 1 hour to talk about our hiring process . 
+Need a meeting with  Scott on <START:datetime> August 8 2015 at 05:30PM <END> for 7 hours to discuss world peace . 
+Need an appointment with  Wallace,  Dyer, and  Hill on <START:datetime> Jul 12 2015 at 5:15 PM <END> for 8 hours to brainstorm about the main topic . 
+Need an appointment with  Payne on <START:datetime> December 12 2015 at 7:00 PM <END> for 1 hour to fine tune the points . 
+Create a meeting with  Hamilton,  Ince, and  Johnston on <START:datetime> Feb 9 2016 at 8:45 AM <END> for 30 minutes to brainstorm about our testing strategy . 
+Please schedule an appointment with  Mackenzie,  Hughes, and  Hodges on <START:datetime> Jun 13 2015 at 12:10AM <END> for 45 minutes to discuss our QA approach . 
+Please create a meeting with  Berry and  Sutherland on <START:datetime> October 6 2015 at 8:10 AM <END> for 1 hour to discuss economic trends . 
+Create an appointment with  Walker,  Simpson, and  Cameron on <START:datetime> Aug 9 2015 at 4:30AM <END> for 10 hours to fine tune the points . 
+Please schedule a meeting with  Reid and  Walsh on <START:datetime> Feb 16 2016 at 5:00 PM <END> for 8 hours to brainstorm about our testing strategy . 
+Please schedule an appointment with  Marshall and  Edmunds on <START:datetime> June 23 2015 at 05:30PM <END> for 5 hours to review the summary statistics . 
+Please create a meeting with  Coleman,  Campbell, and  Quinn on <START:datetime> Apr 15 2015 at 1:00 AM <END> for 45 minutes to brainstorm about the contract . 
+Please schedule a meeting with  Morrison and  McDonald on <START:datetime> December 3 2015 at 10:10 AM <END> for 30 minutes to talk about our hiring process . 
+Schedule an appointment with  Burgess on <START:datetime> April 15 2015 at 5:30 AM <END> for 30 minutes to brainstorm about our QA strategy . 
+Create a meeting with  MacLeod on <START:datetime> March 25 2015 at 10:15 PM <END> for 9 hours to brainstorm about our QA strategy . 
+Please schedule an appointment with  Cornish and  Scott on <START:datetime> December 10 2015 at 01:15PM <END> for 9 hours to brainstorm about the main topic . 
+Please schedule an appointment with  Abraham on <START:datetime> Jun 8 2015 at 7:15 PM <END> for 1 hour to discuss our hiring process . 
+Need an appointment with  Taylor,  Chapman, and  Blake on <START:datetime> December 18 2015 at 12:15 AM <END> for 9 hours to discuss the contract . 
+Please schedule an appointment with  Abraham and  Scott on <START:datetime> October 20 2015 at 10:10PM <END> for 45 minutes to brainstorm about the main topic . 
+Schedule an appointment with  Abraham,  Hardacre, and  Springer on <START:datetime> August 6 2015 at 05:15AM <END> for 30 minutes to fine tune the points . 
+Schedule an appointment with  Burgess,  Paterson, and  Knox on <START:datetime> June 29 2015 at 10:15PM <END> for 45 minutes to fine tune our pitch . 
+Create a meeting with  Ince and  Parsons on <START:datetime> August 3 2015 at 10:15AM <END> for 9 hours to discuss our QA approach . 
+Create an appointment with  Underwood and  Peters on <START:datetime> Jan 6 2016 at 5:00 AM <END> for 8 hours to brainstorm about our testing strategy . 
+Please schedule an appointment with  Allan and  Welch on <START:datetime> December 5 2015 at 11:45 PM <END> for 1 hour to brainstorm about the contract . 
+Please create a meeting with  Parr on <START:datetime> Mar 30 2015 at 8:45PM <END> for 10 hours to brainstorm about the main topic . 
+Please schedule a meeting with  Coleman,  Vaughan, and  Burgess on <START:datetime> May 23 2015 at 5:30AM <END> for 15 minutes to brainstorm about the main topic . 
+Create a meeting with  Morgan on <START:datetime> May 28 2015 at 6:00PM <END> for 30 minutes to discuss our hiring process . 
+Schedule a meeting with  Rees and  Jones on <START:datetime> May 26 2015 at 5:00 PM <END> for 10 hours to brainstorm about the main topic . 
+Create a meeting with  Kelly on <START:datetime> Dec 23 2015 at 11:45 PM <END> for 45 minutes to discuss our QA approach . 
+Schedule an appointment with  Mathis,  Fisher, and  Lawrence on <START:datetime> Mar 8 2016 at 4:45AM <END> for 7 hours to discuss the contract . 
+Need a meeting with  Poole on <START:datetime> Jan 3 2016 at 5:15PM <END> for 7 hours to discuss our testing strategy . 
+Need a meeting with  Sutherland on <START:datetime> May 9 2015 at 3:00PM <END> for 9 hours to fine tune our pitch . 
+Please schedule an appointment with  Short,  Mackay, and  Fraser on <START:datetime> Oct 21 2015 at 12:00AM <END> for 5 hours to discuss economic trends . 
+Schedule a meeting with  Jackson and  Hart on <START:datetime> Mar 27 2015 at 6:10 PM <END> for 3 hours to brainstorm about our QA strategy . 
+Please schedule a meeting with  Mathis,  Rampling, and  Short on <START:datetime> Jul 20 2015 at 4:10 AM <END> for 7 hours to review the summary statistics . 
+Schedule an appointment with  Duncan on <START:datetime> April 12 2015 at 03:30AM <END> for 10 hours to discuss the contract . 
+Create an appointment with  Newman on <START:datetime> April 28 2015 at 12:30PM <END> for 5 hours to brainstorm about the main topic . 
+Please create an appointment with  Smith,  Roberts, and  Wallace on <START:datetime> Nov 24 2015 at 10:10PM <END> for 15 minutes to brainstorm about our QA strategy . 
+Schedule a meeting with  Poole and  Lambert on <START:datetime> June 21 2015 at 10:10AM <END> for 6 hours to discuss our QA approach . 
+Schedule a meeting with  Buckland on <START:datetime> Jan 11 2016 at 7:30AM <END> for 10 hours to talk about our hiring process . 
+Need an appointment with  Glover and  May on <START:datetime> June 21 2015 at 12:10PM <END> for 7 hours to brainstorm about our QA strategy . 
+Schedule a meeting with  Rampling and  Butler on <START:datetime> Jun 12 2015 at 10:30AM <END> for 10 hours to discuss world peace . 
+Schedule a meeting with  Dyer on <START:datetime> Feb 13 2016 at 3:10 AM <END> for 30 minutes to discuss the contract . 
+Need an appointment with  Skinner on <START:datetime> Sep 16 2015 at 1:10PM <END> for 45 minutes to talk about our hiring process . 
+Schedule an appointment with  Churchill and  Blake on <START:datetime> January 10 2016 at 03:10PM <END> for 45 minutes to fine tune the points . 
+Create an appointment with  Ellison,  Baker, and  Bailey on <START:datetime> April 27 2015 at 01:45AM <END> for 3 hours to discuss world peace . 
+Please schedule an appointment with  Payne,  Peake, and  Hughes on <START:datetime> Nov 7 2015 at 8:30 PM <END> for 8 hours to fine tune the points . 
+Please schedule an appointment with  Carr on <START:datetime> Dec 8 2015 at 8:10AM <END> for 15 minutes to brainstorm about our testing strategy . 
+Create an appointment with  Jones and  Payne on <START:datetime> May 19 2015 at 07:15PM <END> for 9 hours to brainstorm about our QA strategy . 
+Need a meeting with  Newman on <START:datetime> Sep 3 2015 at 4:45 AM <END> for 6 hours to discuss our hiring process . 
+Please schedule a meeting with  North on <START:datetime> Mar 13 2016 at 8:10 PM <END> for 45 minutes to brainstorm about the main topic . 
+Please schedule a meeting with  Campbell on <START:datetime> April 4 2015 at 06:30AM <END> for 30 minutes to have a brief discussion . 
+Schedule an appointment with  Fraser,  Peters, and  Paterson on <START:datetime> June 22 2015 at 8:00 AM <END> for 9 hours to fine tune our pitch . 
+Need an appointment with  Edmunds on <START:datetime> April 28 2015 at 05:30AM <END> for 4 hours to talk about our hiring process . 
+Please schedule a meeting with  Quinn,  North, and  Carr on <START:datetime> November 26 2015 at 04:10AM <END> for 45 minutes to chat about the case . 
+Please create a meeting with  Hunter,  Clarkson, and  Taylor on <START:datetime> October 31 2015 at 08:00PM <END> for 8 hours to discuss the contract . 
+Please create an appointment with  Newman,  Roberts, and  Vance on <START:datetime> January 23 2016 at 08:30AM <END> for 5 hours to discuss economic trends . 
+Create an appointment with  Gill on <START:datetime> March 5 2016 at 07:15AM <END> for 45 minutes to discuss our hiring process . 
+Create an appointment with  Forsyth on <START:datetime> Oct 16 2015 at 7:00AM <END> for 15 minutes to brainstorm about our QA strategy . 
+Please create a meeting with  Lewis on <START:datetime> May 10 2015 at 11:10PM <END> for 8 hours to brainstorm about our QA strategy . 
+Schedule an appointment with  Rampling on <START:datetime> April 25 2015 at 04:15PM <END> for 9 hours to fine tune the points . 
+Create an appointment with  Butler,  Brown, and  Hardacre on <START:datetime> Mar 31 2015 at 7:00AM <END> for 3 hours to chat about the case . 
+Schedule a meeting with  Watson and  Peake on <START:datetime> October 10 2015 at 6:00 AM <END> for 30 minutes to discuss the contract . 
+Please schedule a meeting with  McLean and  Peake on <START:datetime> Apr 13 2015 at 10:30AM <END> for 4 hours to discuss world peace . 
+Please schedule an appointment with  Abraham on <START:datetime> February 14 2016 at 2:45 PM <END> for 7 hours to have a brief discussion . 
+Create an appointment with  Lee,  Walsh, and  Mackay on <START:datetime> December 3 2015 at 02:15PM <END> for 1 hour to brainstorm about our testing strategy . 
+Create a meeting with  Manning,  Clarkson, and  Graham on <START:datetime> Jun 11 2015 at 11:45PM <END> for 5 hours to brainstorm about the contract . 
+Need a meeting with  Carr and  Bond on <START:datetime> September 30 2015 at 09:00PM <END> for 1 hour to discuss the contract . 
+Please schedule a meeting with  Walsh on <START:datetime> July 13 2015 at 09:00AM <END> for 7 hours to discuss the contract . 
+Please create an appointment with  Ross and  Anderson on <START:datetime> Jul 16 2015 at 6:30AM <END> for 5 hours to discuss the contract . 
+Need an appointment with  Hunter on <START:datetime> Jun 29 2015 at 6:30 PM <END> for 3 hours to fine tune the points . 
+Schedule an appointment with  Terry,  Wallace, and  Parsons on <START:datetime> May 28 2015 at 10:30PM <END> for 5 hours to discuss world peace . 
+Need a meeting with  Campbell and  Allan on <START:datetime> July 23 2015 at 07:45PM <END> for 7 hours to fine tune the points . 
+Schedule a meeting with  McDonald on <START:datetime> Feb 29 2016 at 6:30AM <END> for 9 hours to fine tune our pitch . 
+Please create a meeting with  Oliver on <START:datetime> Jun 27 2015 at 4:10 AM <END> for 15 minutes to discuss world peace . 
+Need an appointment with  Allan,  Miller, and  Bell on <START:datetime> November 17 2015 at 03:45AM <END> for 6 hours to fine tune the points . 
+Please create a meeting with  Sutherland and  Oliver on <START:datetime> August 10 2015 at 05:15PM <END> for 3 hours to fine tune the points . 
+Please schedule an appointment with  Mackay on <START:datetime> Sep 26 2015 at 3:00PM <END> for 4 hours to fine tune the points . 
+Need an appointment with  May on <START:datetime> Sep 27 2015 at 7:30AM <END> for 9 hours to brainstorm about our testing strategy . 
+Please create an appointment with  Edmunds on <START:datetime> Jan 24 2016 at 1:15 AM <END> for 15 minutes to discuss our QA approach . 
+Create an appointment with  Vance,  Clarkson, and  Jackson on <START:datetime> June 21 2015 at 9:15 AM <END> for 6 hours to discuss world peace . 
+Need a meeting with  Taylor,  Abraham, and  Stewart on <START:datetime> Jun 13 2015 at 7:15 PM <END> for 45 minutes to brainstorm about our testing strategy . 
+Create an appointment with  Johnston,  Rutherford, and  Black on <START:datetime> Jun 21 2015 at 5:45AM <END> for 30 minutes to discuss our testing strategy . 
+Please create a meeting with  Paterson,  Clark, and  Harris on <START:datetime> October 1 2015 at 12:10 AM <END> for 2 hours to brainstorm about our testing strategy . 
+Create a meeting with  Quinn on <START:datetime> Feb 10 2016 at 7:00AM <END> for 2 hours to fine tune our pitch . 
+Create a meeting with  Jackson,  Alsop, and  Cornish on <START:datetime> April 12 2015 at 7:15 AM <END> for 15 minutes to fine tune our pitch . 
+Please schedule a meeting with  Forsyth and  Watson on <START:datetime> Dec 1 2015 at 2:00 PM <END> for 2 hours to discuss world peace . 
+Please create an appointment with  Ross and  Clarkson on <START:datetime> January 11 2016 at 7:45 AM <END> for 8 hours to discuss our testing strategy . 
+Need an appointment with  Springer and  Oliver on <START:datetime> May 9 2015 at 1:15AM <END> for 2 hours to discuss economic trends . 
+Create a meeting with  Hardacre and  Edmunds on <START:datetime> October 19 2015 at 02:45PM <END> for 10 hours to discuss our hiring process . 
+Need an appointment with  Bell and  Cornish on <START:datetime> April 24 2015 at 11:45 PM <END> for 9 hours to have a brief discussion . 
+Need an appointment with  Lee,  Kerr, and  Turner on <START:datetime> May 15 2015 at 04:45PM <END> for 10 hours to discuss our testing strategy . 
+Please create an appointment with  Wilson and  McDonald on <START:datetime> October 5 2015 at 8:30 AM <END> for 6 hours to talk about our hiring process . 
+Create a meeting with  Powell and  Gill on <START:datetime> Nov 25 2015 at 3:00PM <END> for 5 hours to brainstorm about our testing strategy . 
+Please create a meeting with  Powell and  Allan on <START:datetime> November 25 2015 at 2:45 AM <END> for 2 hours to brainstorm about our QA strategy . 
+Please schedule a meeting with  Bell on <START:datetime> February 4 2016 at 7:45 AM <END> for 30 minutes to discuss our hiring process . 
+Schedule an appointment with  Walker on <START:datetime> Mar 22 2015 at 4:30PM <END> for 45 minutes to brainstorm about the main topic . 
+Please schedule a meeting with  Edmunds,  Sharp, and  Hardacre on <START:datetime> February 5 2016 at 05:00AM <END> for 1 hour to review the summary statistics . 
+Schedule a meeting with  Butler and  Harris on <START:datetime> February 28 2016 at 11:45PM <END> for 45 minutes to chat about the case . 
+Please create a meeting with  Mackenzie on <START:datetime> November 1 2015 at 02:45AM <END> for 15 minutes to discuss the contract . 
+Please create an appointment with  Jones on <START:datetime> Jan 5 2016 at 10:15 AM <END> for 9 hours to have a brief discussion . 
+Please create an appointment with  Duncan,  Brown, and  Chapman on <START:datetime> Dec 31 2015 at 7:15 AM <END> for 30 minutes to brainstorm about our QA strategy . 
+Please create an appointment with  Short,  Lee, and  Brown on <START:datetime> Jul 26 2015 at 10:10PM <END> for 6 hours to chat about the case . 
+Schedule a meeting with  Morrison on <START:datetime> Jun 24 2015 at 10:15 PM <END> for 4 hours to brainstorm about the main topic . 
+Please schedule a meeting with  Rutherford on <START:datetime> February 3 2016 at 04:00PM <END> for 3 hours to discuss world peace . 
+Need an appointment with  Allan and  Murray on <START:datetime> Nov 6 2015 at 3:45 AM <END> for 30 minutes to discuss economic trends . 
+Please create a meeting with  Brown and  Butler on <START:datetime> Jul 7 2015 at 3:15PM <END> for 10 hours to brainstorm about our QA strategy . 
+Please create a meeting with  Grant and  Walsh on <START:datetime> Feb 29 2016 at 5:30PM <END> for 10 hours to have a brief discussion . 
+Schedule a meeting with  Lyman,  Bailey, and  Grant on <START:datetime> July 13 2015 at 03:30AM <END> for 9 hours to brainstorm about the main topic . 
+Please schedule an appointment with  Turner on <START:datetime> Mar 12 2016 at 1:30PM <END> for 2 hours to discuss economic trends . 
+Need a meeting with  Churchill and  Black on <START:datetime> December 8 2015 at 4:10 PM <END> for 15 minutes to fine tune our pitch . 
+Please schedule an appointment with  Davies,  Nolan, and  Hodges on <START:datetime> August 24 2015 at 03:10PM <END> for 5 hours to fine tune the points . 
+Please create a meeting with  Lee on <START:datetime> Nov 22 2015 at 4:45 PM <END> for 8 hours to brainstorm about the main topic . 
+Create a meeting with  Lyman and  Martin on <START:datetime> May 1 2015 at 2:10PM <END> for 2 hours to brainstorm about the main topic . 
+Please schedule a meeting with  Hemmings and  Quinn on <START:datetime> July 19 2015 at 6:15 AM <END> for 2 hours to fine tune the points . 
+Need a meeting with  Stewart on <START:datetime> February 2 2016 at 8:15 AM <END> for 2 hours to review the summary statistics . 
+Create an appointment with  Bond on <START:datetime> May 1 2015 at 1:15 PM <END> for 2 hours to discuss our hiring process . 
+Please create a meeting with  Hamilton,  Turner, and  Ross on <START:datetime> Nov 15 2015 at 2:10 PM <END> for 4 hours to fine tune the points . 
+Need an appointment with  Mitchell and  Buckland on <START:datetime> November 23 2015 at 5:10 AM <END> for 15 minutes to discuss our QA approach . 
+Schedule an appointment with  Miller on <START:datetime> July 19 2015 at 1:45 PM <END> for 7 hours to brainstorm about our testing strategy . 
+Please create a meeting with  James on <START:datetime> December 4 2015 at 3:15 AM <END> for 3 hours to discuss our testing strategy . 
+Need an appointment with  Short,  Paige, and  Alsop on <START:datetime> May 2 2015 at 9:00 AM <END> for 10 hours to fine tune our pitch . 
+Create a meeting with  Rampling,  Gibson, and  Hudson on <START:datetime> Jul 2 2015 at 1:30 AM <END> for 4 hours to discuss our hiring process . 
+Please schedule a meeting with  Roberts on <START:datetime> Dec 7 2015 at 5:45 PM <END> for 9 hours to talk about our hiring process . 
+Please create a meeting with  Carr and  Bell on <START:datetime> Jul 3 2015 at 12:00 AM <END> for 8 hours to discuss our QA approach . 
+Please create an appointment with  Bailey on <START:datetime> May 16 2015 at 7:30PM <END> for 6 hours to fine tune the points . 
+Schedule a meeting with  Glover on <START:datetime> April 10 2015 at 04:45PM <END> for 7 hours to discuss our hiring process . 
+Schedule a meeting with  Berry,  Morgan, and  Russell on <START:datetime> February 27 2016 at 09:30PM <END> for 2 hours to brainstorm about our testing strategy . 
+Create a meeting with  Slater and  Simpson on <START:datetime> Aug 26 2015 at 7:15PM <END> for 45 minutes to brainstorm about the main topic . 
+Create an appointment with  Oliver on <START:datetime> Feb 14 2016 at 5:45AM <END> for 4 hours to talk about our hiring process . 
+Schedule an appointment with  Forsyth and  Hill on <START:datetime> March 20 2016 at 01:45AM <END> for 45 minutes to chat about the case . 
+Please create a meeting with  Allan on <START:datetime> July 22 2015 at 03:15PM <END> for 1 hour to fine tune the points . 
+Please schedule a meeting with  Paige on <START:datetime> Dec 25 2015 at 10:00 PM <END> for 45 minutes to fine tune our pitch . 
+Create a meeting with  Sanderson,  Parr, and  Morrison on <START:datetime> April 3 2015 at 1:30 PM <END> for 7 hours to talk about our hiring process . 
+Create a meeting with  Langdon,  Lee, and  Terry on <START:datetime> March 24 2015 at 10:30 AM <END> for 1 hour to discuss our hiring process . 
+Need a meeting with  Baker on <START:datetime> April 23 2015 at 10:45 PM <END> for 45 minutes to talk about our hiring process . 
+Please schedule an appointment with  Dyer,  Lyman, and  Berry on <START:datetime> Jan 27 2016 at 5:00AM <END> for 15 minutes to brainstorm about the main topic . 
+Create an appointment with  Sharp and  Bell on <START:datetime> Aug 6 2015 at 6:45PM <END> for 2 hours to have a brief discussion . 
+Please schedule a meeting with  Peake,  Baker, and  Mackenzie on <START:datetime> August 3 2015 at 2:00 AM <END> for 3 hours to discuss world peace . 
+Please create an appointment with  Lyman,  King, and  Russell on <START:datetime> Aug 30 2015 at 8:10 PM <END> for 1 hour to discuss world peace . 
+Please schedule an appointment with  Butler and  Metcalfe on <START:datetime> May 1 2015 at 4:45 PM <END> for 1 hour to brainstorm about the main topic . 
+Need a meeting with  Terry,  Simpson, and  Ince on <START:datetime> January 27 2016 at 2:00 PM <END> for 9 hours to brainstorm about our testing strategy . 
+Please create an appointment with  Fraser and  Greene on <START:datetime> April 14 2015 at 6:45 AM <END> for 2 hours to discuss world peace . 
+Need an appointment with  McDonald on <START:datetime> June 4 2015 at 7:30 PM <END> for 4 hours to have a brief discussion . 
+Schedule an appointment with  Scott and  McDonald on <START:datetime> October 4 2015 at 03:15PM <END> for 8 hours to talk about our hiring process . 
+Please schedule a meeting with  Dickens and  Quinn on <START:datetime> Jun 16 2015 at 4:00AM <END> for 6 hours to brainstorm about the main topic . 
+Please create an appointment with  Marshall and  Hill on <START:datetime> March 15 2016 at 02:30PM <END> for 5 hours to brainstorm about the contract . 
+Schedule an appointment with  Springer on <START:datetime> Dec 6 2015 at 3:10 PM <END> for 6 hours to brainstorm about our QA strategy . 
+Please create a meeting with  Coleman on <START:datetime> Mar 27 2015 at 7:00AM <END> for 5 hours to talk about our hiring process . 
+Please schedule an appointment with  Anderson on <START:datetime> April 20 2015 at 1:30 AM <END> for 4 hours to chat about the case . 
+Please create an appointment with  Springer and  Walsh on <START:datetime> Nov 27 2015 at 6:10 PM <END> for 2 hours to have a brief discussion . 
+Need a meeting with  Mitchell on <START:datetime> September 15 2015 at 3:10 AM <END> for 7 hours to discuss world peace . 
+Please create an appointment with  Dyer and  Miller on <START:datetime> Jan 14 2016 at 2:45PM <END> for 2 hours to discuss world peace . 
+Please create an appointment with  Peake,  Davidson, and  Murray on <START:datetime> July 7 2015 at 10:15PM <END> for 10 hours to have a brief discussion . 
+Please create a meeting with  Manning and  Bower on <START:datetime> Apr 4 2015 at 12:10PM <END> for 9 hours to brainstorm about our QA strategy . 
+Please create an appointment with  North on <START:datetime> Mar 2 2016 at 12:45PM <END> for 5 hours to brainstorm about the contract . 
+Create an appointment with  Paterson and  Churchill on <START:datetime> April 25 2015 at 08:15PM <END> for 6 hours to chat about the case . 
+Please create a meeting with  Abraham on <START:datetime> Oct 28 2015 at 5:10 PM <END> for 6 hours to discuss the contract . 
+Need a meeting with  Payne on <START:datetime> May 19 2015 at 12:15 AM <END> for 7 hours to have a brief discussion . 
+Need an appointment with  Peake,  North, and  Cameron on <START:datetime> November 19 2015 at 10:10AM <END> for 8 hours to review the summary statistics . 
+Please create an appointment with  Burgess,  Bond, and  Chapman on <START:datetime> July 18 2015 at 4:45 AM <END> for 3 hours to fine tune our pitch . 
+Schedule a meeting with  Hardacre,  Mills, and  Hunter on <START:datetime> May 7 2015 at 05:45AM <END> for 30 minutes to talk about our hiring process . 
+Schedule a meeting with  Mackay on <START:datetime> July 1 2015 at 12:45 AM <END> for 4 hours to discuss our QA approach . 
+Please schedule an appointment with  Sutherland on <START:datetime> March 15 2016 at 12:15 PM <END> for 1 hour to review the summary statistics . 
+Schedule a meeting with  Avery and  Jones on <START:datetime> Feb 19 2016 at 9:00 PM <END> for 3 hours to discuss our hiring process . 
+Create an appointment with  Davies and  Nolan on <START:datetime> Nov 7 2015 at 4:15 PM <END> for 8 hours to discuss our QA approach . 
+Please schedule an appointment with  Langdon,  Lyman, and  Paige on <START:datetime> Apr 24 2015 at 2:45PM <END> for 10 hours to chat about the case . 
+Please create an appointment with  Wilkins on <START:datetime> Aug 10 2015 at 9:30AM <END> for 4 hours to discuss the contract . 
+Need a meeting with  Duncan,  Lyman, and  Vance on <START:datetime> January 16 2016 at 7:30 AM <END> for 45 minutes to fine tune the points . 
+Need a meeting with  Rees,  Coleman, and  Morgan on <START:datetime> August 23 2015 at 7:30 PM <END> for 3 hours to have a brief discussion . 
+Please schedule an appointment with  Ince,  Knox, and  Ince on <START:datetime> October 18 2015 at 2:10 AM <END> for 10 hours to review the summary statistics . 
+Need an appointment with  Tucker and  Martin on <START:datetime> January 23 2016 at 02:00PM <END> for 10 hours to discuss economic trends . 
+Please create an appointment with  Dowd,  Jones, and  Lawrence on <START:datetime> June 4 2015 at 12:10PM <END> for 30 minutes to brainstorm about the main topic . 
+Need a meeting with  Young,  Abraham, and  Harris on <START:datetime> Dec 10 2015 at 7:45PM <END> for 1 hour to brainstorm about the contract . 
+Create an appointment with  Howard and  Robertson on <START:datetime> Jul 2 2015 at 2:45AM <END> for 6 hours to fine tune the points . 
+Create an appointment with  Churchill and  Wilkins on <START:datetime> Dec 14 2015 at 1:45 PM <END> for 15 minutes to discuss our hiring process . 
+Create a meeting with  Smith,  Peters, and  Howard on <START:datetime> Nov 5 2015 at 4:00 AM <END> for 8 hours to discuss world peace . 
+Need an appointment with  Dowd on <START:datetime> February 17 2016 at 12:45AM <END> for 4 hours to brainstorm about the main topic . 
+Please schedule a meeting with  Stewart,  James, and  Grant on <START:datetime> May 28 2015 at 5:00 PM <END> for 30 minutes to fine tune the points . 
+Need a meeting with  Churchill on <START:datetime> December 1 2015 at 11:00AM <END> for 30 minutes to talk about our hiring process . 
+Need a meeting with  Mathis,  Black, and  Jones on <START:datetime> Dec 6 2015 at 9:10 PM <END> for 8 hours to discuss the contract . 
+Schedule a meeting with  Hamilton and  Newman on <START:datetime> January 16 2016 at 04:30AM <END> for 15 minutes to discuss our testing strategy . 
+Please schedule a meeting with  Cornish on <START:datetime> January 8 2016 at 1:15 PM <END> for 10 hours to review the summary statistics . 
+Create an appointment with  Jones on <START:datetime> Nov 16 2015 at 7:10 PM <END> for 2 hours to brainstorm about our QA strategy . 
+Please schedule an appointment with  Taylor on <START:datetime> February 3 2016 at 4:00 AM <END> for 30 minutes to fine tune our pitch . 
+Need a meeting with  Walker and  Arnold on <START:datetime> February 22 2016 at 12:30PM <END> for 10 hours to brainstorm about our testing strategy . 
+Please schedule a meeting with  Davidson,  Roberts, and  Robertson on <START:datetime> Jan 18 2016 at 6:30 PM <END> for 1 hour to brainstorm about the main topic . 
+Please schedule a meeting with  Thomson,  Baker, and  Randall on <START:datetime> Oct 20 2015 at 10:30AM <END> for 30 minutes to review the summary statistics . 
+Need an appointment with  Rampling,  Murray, and  Hodges on <START:datetime> Jul 23 2015 at 2:10 AM <END> for 5 hours to fine tune the points . 
+Need an appointment with  Coleman on <START:datetime> May 15 2015 at 4:00 PM <END> for 10 hours to discuss world peace . 
+Create a meeting with  Howard on <START:datetime> Jan 16 2016 at 3:10 AM <END> for 45 minutes to brainstorm about our QA strategy . 
+Please create an appointment with  Reid,  Cornish, and  Coleman on <START:datetime> Jan 4 2016 at 6:00 AM <END> for 3 hours to discuss our hiring process . 
+Please create a meeting with  Johnston and  Harris on <START:datetime> September 17 2015 at 12:30 AM <END> for 3 hours to discuss our QA approach . 
+Need a meeting with  Parsons on <START:datetime> Nov 24 2015 at 3:45 PM <END> for 15 minutes to brainstorm about our testing strategy . 
+Please create an appointment with  Hamilton and  Taylor on <START:datetime> November 7 2015 at 06:15PM <END> for 30 minutes to brainstorm about our QA strategy . 
+Schedule an appointment with  Ogden on <START:datetime> September 25 2015 at 10:10 PM <END> for 30 minutes to discuss our QA approach . 
+Create an appointment with  Hart on <START:datetime> April 23 2015 at 2:10 AM <END> for 15 minutes to fine tune our pitch . 
+Please create an appointment with  Short and  Wilkins on <START:datetime> November 14 2015 at 04:00PM <END> for 7 hours to chat about the case . 
+Please create a meeting with  Walsh on <START:datetime> Jul 21 2015 at 8:30 PM <END> for 7 hours to discuss our QA approach . 
+Please schedule an appointment with  McDonald,  White, and  Dowd on <START:datetime> Sep 6 2015 at 7:30PM <END> for 4 hours to fine tune our pitch . 
+Create an appointment with  Manning on <START:datetime> April 5 2015 at 11:30PM <END> for 3 hours to discuss the contract . 
+Create an appointment with  Wilkins on <START:datetime> May 3 2015 at 09:45PM <END> for 15 minutes to fine tune our pitch . 
+Need an appointment with  MacLeod,  Blake, and  Hamilton on <START:datetime> Feb 27 2016 at 7:30 AM <END> for 5 hours to discuss economic trends . 
+Need an appointment with  Langdon and  Butler on <START:datetime> June 26 2015 at 6:10 AM <END> for 4 hours to brainstorm about the main topic . 
+Need an appointment with  Watson on <START:datetime> November 22 2015 at 01:00PM <END> for 2 hours to brainstorm about the main topic . 
+Please schedule an appointment with  Bower,  Lambert, and  Manning on <START:datetime> January 7 2016 at 03:10PM <END> for 4 hours to brainstorm about the contract . 
+Schedule an appointment with  Nash on <START:datetime> November 20 2015 at 01:10PM <END> for 3 hours to brainstorm about our testing strategy . 
+Please schedule a meeting with  Quinn and  Cornish on <START:datetime> July 30 2015 at 01:45PM <END> for 7 hours to brainstorm about our QA strategy . 
+Create an appointment with  Anderson,  Blake, and  Langdon on <START:datetime> Feb 13 2016 at 8:30PM <END> for 6 hours to brainstorm about the contract . 
+Need an appointment with  Pullman on <START:datetime> December 16 2015 at 08:30PM <END> for 5 hours to discuss the contract . 
+Please create a meeting with  Campbell on <START:datetime> Jan 15 2016 at 8:15 PM <END> for 1 hour to brainstorm about our testing strategy . 
+Create an appointment with  Hardacre on <START:datetime> Aug 23 2015 at 12:30 PM <END> for 7 hours to discuss our hiring process . 
+Please schedule an appointment with  Dowd,  Underwood, and  Lyman on <START:datetime> May 6 2015 at 04:10PM <END> for 2 hours to talk about our hiring process . 
+Schedule an appointment with  Quinn,  North, and  McGrath on <START:datetime> Apr 10 2015 at 2:00AM <END> for 3 hours to discuss our QA approach . 
+Need an appointment with  Ogden on <START:datetime> Mar 10 2016 at 10:00 PM <END> for 4 hours to discuss our hiring process . 
+Please create an appointment with  White and  Terry on <START:datetime> July 21 2015 at 02:15AM <END> for 45 minutes to discuss economic trends . 
+Please create a meeting with  Buckland and  Hughes on <START:datetime> Dec 15 2015 at 8:10 PM <END> for 45 minutes to brainstorm about the contract . 
+Create a meeting with  MacLeod,  Wilkins, and  Reid on <START:datetime> Apr 4 2015 at 7:45 PM <END> for 8 hours to fine tune our pitch . 
+Schedule a meeting with  Slater on <START:datetime> Feb 22 2016 at 2:15AM <END> for 1 hour to brainstorm about our testing strategy . 
+Need a meeting with  Bower and  Churchill on <START:datetime> December 9 2015 at 05:45AM <END> for 1 hour to fine tune our pitch . 
+Create an appointment with  Bond,  Ellison, and  Lyman on <START:datetime> Jul 18 2015 at 5:00PM <END> for 15 minutes to discuss our hiring process . 
+Schedule an appointment with  Sutherland and  Baker on <START:datetime> May 15 2015 at 7:15 PM <END> for 1 hour to discuss economic trends . 
+Create a meeting with  Watson on <START:datetime> October 25 2015 at 3:10 PM <END> for 10 hours to discuss our hiring process . 
+Please create a meeting with  Anderson on <START:datetime> Feb 21 2016 at 3:10 AM <END> for 9 hours to brainstorm about our testing strategy . 
+Need a meeting with  Poole and  Peake on <START:datetime> November 13 2015 at 09:45PM <END> for 1 hour to have a brief discussion . 
+Please schedule an appointment with  Johnston,  Carr, and  Lyman on <START:datetime> September 25 2015 at 02:00AM <END> for 2 hours to brainstorm about our QA strategy . 
+Please schedule a meeting with  Short,  Quinn, and  Howard on <START:datetime> December 14 2015 at 04:30AM <END> for 9 hours to discuss economic trends . 
+Schedule a meeting with  Vance and  Graham on <START:datetime> October 3 2015 at 07:45PM <END> for 5 hours to have a brief discussion . 
+Create an appointment with  Glover,  Morgan, and  Blake on <START:datetime> September 24 2015 at 02:15PM <END> for 1 hour to discuss our testing strategy . 
+Schedule an appointment with  Welch,  Sharp, and  Fisher on <START:datetime> Jun 10 2015 at 5:10 PM <END> for 6 hours to brainstorm about the main topic . 
+Please create an appointment with  Parr,  McGrath, and  Davidson on <START:datetime> August 14 2015 at 03:00AM <END> for 1 hour to discuss our hiring process . 
+Schedule an appointment with  Morgan on <START:datetime> March 9 2016 at 1:30 PM <END> for 9 hours to discuss economic trends . 
+Create an appointment with  Morrison on <START:datetime> January 10 2016 at 9:10 AM <END> for 6 hours to chat about the case . 
+Need an appointment with  Peters on <START:datetime> September 6 2015 at 11:10 PM <END> for 8 hours to fine tune the points . 
+Please schedule an appointment with  Mitchell on <START:datetime> Apr 5 2015 at 11:30PM <END> for 6 hours to discuss our testing strategy . 
+Need an appointment with  Campbell,  Murray, and  Berry on <START:datetime> July 27 2015 at 04:10AM <END> for 3 hours to have a brief discussion . 
+Create a meeting with  McLean and  Graham on <START:datetime> January 4 2016 at 06:10PM <END> for 7 hours to discuss our hiring process . 
+Need an appointment with  Langdon and  Grant on <START:datetime> November 24 2015 at 2:00 AM <END> for 45 minutes to have a brief discussion . 
+Please schedule a meeting with  Gibson on <START:datetime> January 9 2016 at 1:00 AM <END> for 9 hours to discuss our QA approach . 
+Need an appointment with  Berry and  Piper on <START:datetime> Mar 15 2016 at 7:10 PM <END> for 30 minutes to discuss our hiring process . 
+Schedule a meeting with  James and  Nash on <START:datetime> Mar 15 2016 at 9:45 PM <END> for 30 minutes to discuss economic trends . 
+Please create a meeting with  Alsop,  White, and  Oliver on <START:datetime> Mar 6 2016 at 8:30 AM <END> for 15 minutes to fine tune the points . 
+Schedule an appointment with  Butler and  Terry on <START:datetime> Mar 28 2015 at 2:15 AM <END> for 7 hours to fine tune our pitch . 
+Need an appointment with  Ince and  Vance on <START:datetime> July 14 2015 at 07:10PM <END> for 9 hours to have a brief discussion . 
+Please schedule an appointment with  Duncan and  Watson on <START:datetime> November 30 2015 at 4:10 PM <END> for 4 hours to discuss the contract . 
+Please create an appointment with  Ellison and  Fraser on <START:datetime> Oct 8 2015 at 2:15PM <END> for 6 hours to brainstorm about our testing strategy . 
+Please schedule an appointment with  Young on <START:datetime> May 30 2015 at 01:15PM <END> for 8 hours to discuss our testing strategy . 
+Schedule an appointment with  Dowd on <START:datetime> March 21 2016 at 12:45AM <END> for 2 hours to chat about the case . 
+Please create an appointment with  Howard,  MacLeod, and  MacDonald on <START:datetime> January 4 2016 at 10:45 PM <END> for 9 hours to discuss economic trends . 
+Create a meeting with  Piper and  Ross on <START:datetime> November 11 2015 at 09:10AM <END> for 3 hours to chat about the case . 
+Please create a meeting with  Terry,  Glover, and  Langdon on <START:datetime> Oct 16 2015 at 12:45 PM <END> for 6 hours to fine tune our pitch . 
+Need an appointment with  McLean,  Davies, and  Thomson on <START:datetime> April 21 2015 at 2:00 PM <END> for 2 hours to chat about the case . 
+Create a meeting with  Brown on <START:datetime> Jun 1 2015 at 4:00 PM <END> for 2 hours to review the summary statistics . 
+Schedule a meeting with  Glover and  Sutherland on <START:datetime> July 30 2015 at 9:45 AM <END> for 2 hours to discuss our QA approach . 
+Please schedule an appointment with  Quinn on <START:datetime> August 24 2015 at 12:10PM <END> for 4 hours to review the summary statistics . 
+Schedule a meeting with  Jones,  Bower, and  Cameron on <START:datetime> April 22 2015 at 07:15AM <END> for 30 minutes to review the summary statistics . 
+Please schedule a meeting with  McLean and  Simpson on <START:datetime> September 29 2015 at 12:15 AM <END> for 9 hours to discuss our testing strategy . 
+Create a meeting with  Clarkson on <START:datetime> Oct 16 2015 at 12:15PM <END> for 2 hours to have a brief discussion . 
+Create an appointment with  Walsh on <START:datetime> April 12 2015 at 06:45AM <END> for 6 hours to talk about our hiring process . 
+Schedule a meeting with  Roberts,  Scott, and  Springer on <START:datetime> September 26 2015 at 07:00PM <END> for 9 hours to fine tune the points . 
+Create an appointment with  Buckland and  Lawrence on <START:datetime> May 16 2015 at 1:30AM <END> for 8 hours to talk about our hiring process . 
+Please create a meeting with  Robertson and  Burgess on <START:datetime> December 7 2015 at 10:15 PM <END> for 7 hours to chat about the case . 
+Please create a meeting with  Metcalfe,  Oliver, and  Poole on <START:datetime> July 26 2015 at 1:15 PM <END> for 6 hours to discuss the contract . 
+Please create an appointment with  Knox on <START:datetime> March 11 2016 at 01:45AM <END> for 6 hours to have a brief discussion . 
+Schedule an appointment with  Metcalfe,  Greene, and  Henderson on <START:datetime> April 17 2015 at 6:00 PM <END> for 7 hours to discuss our QA approach . 
+Create an appointment with  Vance on <START:datetime> Mar 18 2016 at 4:45AM <END> for 5 hours to fine tune the points . 
+Need a meeting with  Greene on <START:datetime> Jul 13 2015 at 1:30AM <END> for 30 minutes to discuss our QA approach . 
+Please create an appointment with  Bower on <START:datetime> May 12 2015 at 5:00 PM <END> for 9 hours to discuss our QA approach . 
+Please schedule an appointment with  Welch on <START:datetime> October 8 2015 at 05:10AM <END> for 6 hours to have a brief discussion . 
+Need an appointment with  Bond and  Hughes on <START:datetime> August 7 2015 at 07:10AM <END> for 15 minutes to fine tune the points . 
+Please create a meeting with  Russell on <START:datetime> Dec 20 2015 at 1:30 AM <END> for 7 hours to have a brief discussion . 
+Create an appointment with  Churchill,  Hudson, and  Ogden on <START:datetime> Jul 2 2015 at 12:15PM <END> for 30 minutes to fine tune the points . 
+Schedule an appointment with  Fisher and  Peake on <START:datetime> December 24 2015 at 07:30PM <END> for 30 minutes to discuss our QA approach . 
+Please schedule a meeting with  Sutherland and  Oliver on <START:datetime> May 4 2015 at 5:00 AM <END> for 7 hours to discuss our QA approach . 
+Create an appointment with  Rutherford on <START:datetime> July 7 2015 at 02:15PM <END> for 15 minutes to brainstorm about the contract . 
+Please schedule a meeting with  North,  North, and  Terry on <START:datetime> Aug 15 2015 at 8:15PM <END> for 4 hours to brainstorm about our testing strategy . 
+Create a meeting with  Vance on <START:datetime> Apr 1 2015 at 6:30PM <END> for 6 hours to have a brief discussion . 
+Need an appointment with  Lewis on <START:datetime> Sep 25 2015 at 1:30PM <END> for 7 hours to fine tune the points . 
+Schedule an appointment with  Walsh,  Churchill, and  Walsh on <START:datetime> Jul 21 2015 at 2:15PM <END> for 1 hour to talk about our hiring process . 
+Need a meeting with  Young,  Parr, and  May on <START:datetime> February 11 2016 at 10:30AM <END> for 4 hours to fine tune our pitch . 
+Please create an appointment with  Anderson on <START:datetime> April 7 2015 at 3:15 AM <END> for 2 hours to discuss our QA approach . 
+Create an appointment with  Grant,  Sharp, and  Peters on <START:datetime> Nov 30 2015 at 6:30PM <END> for 15 minutes to fine tune our pitch . 
+Create an appointment with  Harris,  Vaughan, and  Smith on <START:datetime> June 3 2015 at 7:30 PM <END> for 8 hours to discuss our QA approach . 
+Please create an appointment with  McLean and  Abraham on <START:datetime> Dec 11 2015 at 9:00 PM <END> for 1 hour to brainstorm about the contract . 
+Please create a meeting with  Burgess and  Cornish on <START:datetime> Mar 28 2015 at 3:30 AM <END> for 15 minutes to discuss our testing strategy . 
+Please schedule a meeting with  Anderson on <START:datetime> August 23 2015 at 04:30PM <END> for 15 minutes to brainstorm about the contract . 
+Please schedule a meeting with  May,  Hodges, and  Parr on <START:datetime> November 12 2015 at 10:45 PM <END> for 4 hours to brainstorm about the main topic . 
+Create an appointment with  Greene on <START:datetime> May 25 2015 at 9:10 PM <END> for 45 minutes to fine tune our pitch . 
+Please schedule a meeting with  Ince and  Nash on <START:datetime> Feb 11 2016 at 4:45PM <END> for 45 minutes to talk about our hiring process . 
+Need an appointment with  Mathis on <START:datetime> Nov 27 2015 at 5:10 PM <END> for 5 hours to brainstorm about our testing strategy . 
+Create a meeting with  Howard,  Vance, and  Gray on <START:datetime> May 3 2015 at 09:15AM <END> for 5 hours to discuss our QA approach . 
+Please create a meeting with  Kerr,  MacDonald, and  Hunter on <START:datetime> May 19 2015 at 4:10 AM <END> for 3 hours to brainstorm about the main topic . 
+Please create a meeting with  Arnold and  Hamilton on <START:datetime> Aug 16 2015 at 8:15PM <END> for 4 hours to brainstorm about our testing strategy . 
+Create an appointment with  Mackay and  Davidson on <START:datetime> Aug 21 2015 at 5:30 PM <END> for 7 hours to fine tune the points . 
+Schedule an appointment with  Bond and  Hughes on <START:datetime> February 16 2016 at 7:10 AM <END> for 30 minutes to brainstorm about our QA strategy . 
+Please create an appointment with  Nolan and  Bell on <START:datetime> Jun 17 2015 at 3:15AM <END> for 45 minutes to discuss our hiring process . 
+Please create a meeting with  Parsons,  Hodges, and  Rutherford on <START:datetime> Mar 30 2015 at 11:15 PM <END> for 7 hours to have a brief discussion . 
+Schedule a meeting with  Grant and  Clark on <START:datetime> July 1 2015 at 5:10 PM <END> for 9 hours to talk about our hiring process . 
+Please create an appointment with  Campbell and  Campbell on <START:datetime> Apr 30 2015 at 2:10AM <END> for 1 hour to review the summary statistics . 
+Please create a meeting with  Sutherland on <START:datetime> September 25 2015 at 5:30 AM <END> for 10 hours to fine tune our pitch . 
+Need a meeting with  Bailey,  Taylor, and  North on <START:datetime> Apr 7 2015 at 2:00 PM <END> for 7 hours to chat about the case . 
+Please schedule an appointment with  Sutherland on <START:datetime> April 21 2015 at 03:10PM <END> for 9 hours to review the summary statistics . 
+Create a meeting with  Wright,  Clark, and  Welch on <START:datetime> Jan 9 2016 at 6:00PM <END> for 4 hours to discuss world peace . 
+Please schedule an appointment with  Cornish on <START:datetime> April 9 2015 at 6:45 PM <END> for 9 hours to brainstorm about the main topic . 
+Please schedule an appointment with  Oliver,  Mackay, and  Clark on <START:datetime> Jul 10 2015 at 4:30PM <END> for 8 hours to discuss world peace . 
+Need an appointment with  May,  Springer, and  MacDonald on <START:datetime> October 2 2015 at 12:00 AM <END> for 30 minutes to discuss the contract . 
+Need a meeting with  Manning,  Scott, and  Fraser on <START:datetime> May 4 2015 at 3:45 AM <END> for 9 hours to discuss the contract . 
+Please schedule an appointment with  Terry on <START:datetime> June 7 2015 at 01:00AM <END> for 45 minutes to discuss our hiring process . 
+Create a meeting with  Poole,  Vance, and  Simpson on <START:datetime> December 29 2015 at 10:30 AM <END> for 10 hours to discuss world peace . 
+Please schedule an appointment with  Ince on <START:datetime> July 7 2015 at 08:30PM <END> for 6 hours to discuss the contract . 
+Need a meeting with  Rampling and  Brown on <START:datetime> April 23 2015 at 02:15PM <END> for 7 hours to brainstorm about the contract . 
+Please schedule a meeting with  Hardacre,  Vaughan, and  Wilson on <START:datetime> Jan 6 2016 at 1:00AM <END> for 6 hours to fine tune our pitch . 
+Create a meeting with  Hudson and  Kelly on <START:datetime> July 4 2015 at 1:45 AM <END> for 1 hour to brainstorm about the main topic . 
+Schedule an appointment with  Welch,  Mackay, and  Jackson on <START:datetime> Jan 14 2016 at 7:30PM <END> for 9 hours to discuss our hiring process . 
+Please create an appointment with  Hunter and  McDonald on <START:datetime> July 22 2015 at 5:45 PM <END> for 15 minutes to have a brief discussion . 
+Schedule an appointment with  May on <START:datetime> September 3 2015 at 07:30PM <END> for 45 minutes to have a brief discussion . 
+Please schedule a meeting with  Arnold and  Simpson on <START:datetime> January 27 2016 at 1:15 PM <END> for 9 hours to talk about our hiring process . 
+Schedule an appointment with  Paige,  Young, and  Newman on <START:datetime> August 2 2015 at 8:45 PM <END> for 4 hours to discuss our QA approach . 
+Please create an appointment with  North,  Rees, and  Sanderson on <START:datetime> August 7 2015 at 8:30 AM <END> for 10 hours to talk about our hiring process . 
+Please create an appointment with  Hughes,  Taylor, and  Skinner on <START:datetime> Aug 27 2015 at 8:45AM <END> for 6 hours to review the summary statistics . 
+Please create an appointment with  Hamilton on <START:datetime> August 26 2015 at 09:30PM <END> for 1 hour to fine tune our pitch . 
+Create an appointment with  Piper on <START:datetime> Apr 2 2015 at 9:30 AM <END> for 5 hours to discuss world peace . 
+Please schedule a meeting with  Rampling and  Peters on <START:datetime> Oct 25 2015 at 1:45 PM <END> for 1 hour to have a brief discussion . 
+Create a meeting with  Payne on <START:datetime> Mar 13 2016 at 8:30 AM <END> for 9 hours to talk about our hiring process . 
+Schedule an appointment with  Peake,  Reid, and  Hamilton on <START:datetime> Jun 5 2015 at 7:10PM <END> for 10 hours to discuss our QA approach . 
+Create a meeting with  Sanderson on <START:datetime> January 6 2016 at 9:00 PM <END> for 2 hours to fine tune the points . 
+Need an appointment with  Newman and  Gill on <START:datetime> Jun 9 2015 at 8:15PM <END> for 8 hours to brainstorm about the contract . 
+Please schedule an appointment with  McDonald and  Lewis on <START:datetime> Jan 31 2016 at 3:00AM <END> for 5 hours to review the summary statistics . 
+Create a meeting with  Wilson and  Turner on <START:datetime> Jul 4 2015 at 6:10AM <END> for 15 minutes to discuss world peace . 
+Please schedule a meeting with  Gibson and  Paterson on <START:datetime> August 16 2015 at 09:00PM <END> for 9 hours to have a brief discussion . 
+Schedule an appointment with  Wallace on <START:datetime> October 31 2015 at 10:45 PM <END> for 2 hours to brainstorm about the main topic . 
+Schedule an appointment with  Short on <START:datetime> February 21 2016 at 5:45 AM <END> for 7 hours to discuss our hiring process . 
+Need a meeting with  Clarkson,  Quinn, and  Morgan on <START:datetime> Nov 9 2015 at 7:15 PM <END> for 1 hour to brainstorm about our QA strategy . 
+Create a meeting with  Nolan,  Nolan, and  Payne on <START:datetime> Jun 5 2015 at 2:45 AM <END> for 8 hours to fine tune the points . 
+Please schedule an appointment with  Quinn,  Hart, and  McLean on <START:datetime> December 8 2015 at 1:45 PM <END> for 4 hours to discuss economic trends . 
+Create a meeting with  Scott and  Ferguson on <START:datetime> Apr 1 2015 at 1:45PM <END> for 15 minutes to discuss economic trends . 
+Please schedule a meeting with  Robertson and  MacLeod on <START:datetime> Jul 31 2015 at 4:10 PM <END> for 1 hour to discuss economic trends . 
+Create a meeting with  Parr and  Edmunds on <START:datetime> Nov 7 2015 at 7:45PM <END> for 2 hours to fine tune our pitch . 
+Create a meeting with  MacDonald,  Nolan, and  Alsop on <START:datetime> Apr 8 2015 at 8:15PM <END> for 30 minutes to discuss world peace . 
+Schedule a meeting with  James,  Watson, and  Simpson on <START:datetime> June 12 2015 at 06:00AM <END> for 2 hours to review the summary statistics . 
+Please create an appointment with  Mills on <START:datetime> Mar 14 2016 at 6:10 PM <END> for 45 minutes to discuss our QA approach . 
+Schedule an appointment with  Campbell on <START:datetime> November 15 2015 at 06:15PM <END> for 4 hours to discuss our hiring process . 
+Please schedule an appointment with  Chapman and  Black on <START:datetime> September 20 2015 at 8:15 AM <END> for 30 minutes to talk about our hiring process . 
+Need an appointment with  Quinn,  Berry, and  Peake on <START:datetime> June 18 2015 at 05:10PM <END> for 10 hours to discuss economic trends . 
+Create an appointment with  Hamilton and  Lawrence on <START:datetime> Jul 13 2015 at 3:00 AM <END> for 2 hours to fine tune the points . 
+Need an appointment with  Walker and  Allan on <START:datetime> Jul 13 2015 at 5:45AM <END> for 4 hours to have a brief discussion . 
+Please create an appointment with  Hardacre,  White, and  McDonald on <START:datetime> May 27 2015 at 1:30PM <END> for 6 hours to have a brief discussion . 
+Need an appointment with  Hardacre,  Campbell, and  Campbell on <START:datetime> Apr 20 2015 at 12:10AM <END> for 9 hours to fine tune our pitch . 
+Please schedule an appointment with  Tucker on <START:datetime> December 15 2015 at 8:15 PM <END> for 8 hours to discuss our QA approach . 
+Need an appointment with  Howard,  Hart, and  Abraham on <START:datetime> October 21 2015 at 6:45 AM <END> for 7 hours to brainstorm about our QA strategy . 
+Please create a meeting with  MacLeod,  Short, and  Harris on <START:datetime> May 2 2015 at 12:15AM <END> for 15 minutes to discuss our testing strategy . 
+Schedule an appointment with  Underwood and  Peake on <START:datetime> Oct 25 2015 at 6:45 AM <END> for 3 hours to fine tune the points . 
+Please create a meeting with  Rees,  Cornish, and  Ogden on <START:datetime> Jun 5 2015 at 8:10PM <END> for 1 hour to brainstorm about our QA strategy . 
+Schedule an appointment with  Thomson and  Vance on <START:datetime> July 13 2015 at 08:10PM <END> for 3 hours to discuss our QA approach . 
+Please schedule a meeting with  Thomson and  Lambert on <START:datetime> Jul 13 2015 at 2:10AM <END> for 2 hours to brainstorm about the main topic . 
+Need an appointment with  Wilson,  Kelly, and  Welch on <START:datetime> Jul 24 2015 at 8:30 AM <END> for 3 hours to discuss the contract . 
+Need an appointment with  Scott,  Hunter, and  Campbell on <START:datetime> April 24 2015 at 04:15PM <END> for 30 minutes to brainstorm about the main topic . 
+Schedule a meeting with  Bond on <START:datetime> December 16 2015 at 4:30 AM <END> for 1 hour to discuss economic trends . 
+Please schedule an appointment with  MacLeod and  Martin on <START:datetime> Feb 16 2016 at 6:15 PM <END> for 10 hours to talk about our hiring process . 
+Please schedule an appointment with  Nolan and  Jones on <START:datetime> February 12 2016 at 05:30AM <END> for 45 minutes to chat about the case . 
+Schedule an appointment with  Martin and  Vaughan on <START:datetime> Jan 2 2016 at 7:15 PM <END> for 6 hours to brainstorm about our QA strategy . 
+Please create an appointment with  Hart on <START:datetime> August 12 2015 at 09:15PM <END> for 30 minutes to brainstorm about the contract . 
+Schedule an appointment with  McDonald and  Edmunds on <START:datetime> Mar 28 2015 at 6:30AM <END> for 4 hours to have a brief discussion . 
+Create a meeting with  Manning on <START:datetime> May 7 2015 at 10:30PM <END> for 7 hours to fine tune our pitch . 
+Create a meeting with  Dowd on <START:datetime> March 5 2016 at 9:00 PM <END> for 3 hours to discuss our testing strategy . 
+Please schedule a meeting with  Allan,  Wilson, and  Gill on <START:datetime> June 10 2015 at 3:45 AM <END> for 8 hours to discuss our hiring process . 
+Please schedule an appointment with  Hamilton on <START:datetime> February 25 2016 at 08:30PM <END> for 2 hours to discuss the contract . 
+Please create a meeting with  Mathis,  Fisher, and  Berry on <START:datetime> January 17 2016 at 4:00 AM <END> for 15 minutes to discuss economic trends . 
+Need an appointment with  Mills,  Watson, and  Sanderson on <START:datetime> Nov 25 2015 at 4:15 AM <END> for 45 minutes to talk about our hiring process . 
+Please create a meeting with  Parsons and  Rees on <START:datetime> Dec 3 2015 at 4:10AM <END> for 8 hours to discuss our QA approach . 
+Schedule a meeting with  Ince,  May, and  Morrison on <START:datetime> January 5 2016 at 06:45PM <END> for 4 hours to review the summary statistics . 
+Please create a meeting with  Johnston and  Rees on <START:datetime> July 3 2015 at 7:45 PM <END> for 10 hours to discuss world peace . 
+Please create a meeting with  Mathis and  Burgess on <START:datetime> Jul 14 2015 at 2:00AM <END> for 30 minutes to discuss our hiring process . 
+Please schedule an appointment with  Springer and  Poole on <START:datetime> Jun 2 2015 at 1:10AM <END> for 30 minutes to discuss economic trends . 
+Need a meeting with  Paige,  Davidson, and  Ince on <START:datetime> Oct 27 2015 at 8:45 PM <END> for 2 hours to chat about the case . 
+Please schedule a meeting with  Bell on <START:datetime> May 14 2015 at 2:45 AM <END> for 5 hours to brainstorm about our testing strategy . 
+Schedule a meeting with  Davidson on <START:datetime> Aug 29 2015 at 3:00 AM <END> for 2 hours to fine tune the points . 
+Create an appointment with  Smith,  Cameron, and  Walsh on <START:datetime> July 30 2015 at 8:00 PM <END> for 7 hours to brainstorm about our testing strategy . 
+Schedule an appointment with  Churchill,  Stewart, and  Watson on <START:datetime> Mar 30 2015 at 3:10PM <END> for 3 hours to discuss the contract . 
+Need an appointment with  Russell on <START:datetime> August 26 2015 at 5:30 PM <END> for 45 minutes to discuss our hiring process . 
+Please create a meeting with  Hart and  Lambert on <START:datetime> December 13 2015 at 07:15AM <END> for 4 hours to discuss our hiring process . 
+Please schedule a meeting with  Bond and  Brown on <START:datetime> April 26 2015 at 07:15AM <END> for 9 hours to fine tune our pitch . 
+Please schedule an appointment with  Russell on <START:datetime> Feb 18 2016 at 7:10PM <END> for 15 minutes to discuss our testing strategy . 
+Need an appointment with  Roberts,  Chapman, and  Dyer on <START:datetime> Dec 27 2015 at 8:10 AM <END> for 8 hours to discuss our hiring process . 
+Need a meeting with  Churchill,  Morgan, and  Allan on <START:datetime> Mar 29 2015 at 9:30PM <END> for 5 hours to fine tune the points . 
+Create an appointment with  Welch on <START:datetime> October 1 2015 at 09:00AM <END> for 1 hour to discuss world peace . 
+Please schedule an appointment with  Bell,  Randall, and  Miller on <START:datetime> August 3 2015 at 8:30 AM <END> for 7 hours to discuss our QA approach . 
+Please create an appointment with  Hunter,  Kelly, and  Stewart on <START:datetime> July 2 2015 at 10:45AM <END> for 6 hours to discuss the contract . 
+Please create a meeting with  Gibson on <START:datetime> Jan 26 2016 at 4:45 PM <END> for 6 hours to brainstorm about the main topic . 
+Schedule an appointment with  Forsyth on <START:datetime> July 25 2015 at 02:10PM <END> for 4 hours to discuss our QA approach . 
+Please create an appointment with  Ellison,  Harris, and  May on <START:datetime> August 22 2015 at 5:00 AM <END> for 10 hours to discuss world peace . 
+Create a meeting with  Poole,  Paige, and  Morrison on <START:datetime> Jun 26 2015 at 1:30 AM <END> for 4 hours to brainstorm about our QA strategy . 
+Need a meeting with  Hamilton on <START:datetime> October 14 2015 at 3:15 AM <END> for 45 minutes to review the summary statistics . 
+Need an appointment with  Lambert and  Piper on <START:datetime> October 17 2015 at 5:15 PM <END> for 7 hours to discuss our QA approach . 
+Please create an appointment with  Piper and  Lambert on <START:datetime> April 23 2015 at 06:45PM <END> for 2 hours to fine tune the points . 
+Schedule an appointment with  Gray on <START:datetime> October 22 2015 at 12:00 AM <END> for 10 hours to brainstorm about the contract . 
+Please schedule an appointment with  McGrath on <START:datetime> Jun 5 2015 at 11:45 PM <END> for 7 hours to discuss our hiring process . 
+Schedule an appointment with  Short,  Jackson, and  Wallace on <START:datetime> November 24 2015 at 10:30PM <END> for 15 minutes to talk about our hiring process . 
+Create an appointment with  Gray and  Langdon on <START:datetime> October 30 2015 at 03:00PM <END> for 6 hours to brainstorm about our QA strategy . 
+Please schedule an appointment with  Marshall and  Hemmings on <START:datetime> Aug 3 2015 at 1:00 PM <END> for 10 hours to fine tune the points . 
+Need a meeting with  Bond on <START:datetime> September 4 2015 at 3:15 PM <END> for 15 minutes to discuss economic trends . 
+Please schedule a meeting with  Wilkins on <START:datetime> Apr 9 2015 at 8:10AM <END> for 15 minutes to discuss the contract . 
+Please create a meeting with  James on <START:datetime> October 28 2015 at 05:45PM <END> for 30 minutes to brainstorm about the main topic . 
+Schedule a meeting with  Payne on <START:datetime> July 24 2015 at 11:15PM <END> for 2 hours to review the summary statistics . 
+Schedule a meeting with  Black on <START:datetime> April 30 2015 at 11:15PM <END> for 10 hours to discuss world peace . 
+Create an appointment with  Hughes,  Jones, and  Lambert on <START:datetime> June 22 2015 at 11:30PM <END> for 45 minutes to review the summary statistics . 
+Need a meeting with  Bailey and  Berry on <START:datetime> April 18 2015 at 08:00PM <END> for 9 hours to discuss our testing strategy . 
+Please create a meeting with  Grant on <START:datetime> June 26 2015 at 07:45AM <END> for 15 minutes to chat about the case . 
+Please schedule a meeting with  Lewis,  Peake, and  Abraham on <START:datetime> Sep 8 2015 at 11:45PM <END> for 8 hours to fine tune the points . 
+Need a meeting with  Martin and  Russell on <START:datetime> Nov 21 2015 at 5:45AM <END> for 7 hours to discuss our testing strategy . 
+Schedule an appointment with  Gibson and  Clark on <START:datetime> Oct 1 2015 at 8:15PM <END> for 5 hours to have a brief discussion . 
+Create an appointment with  Hunter,  Manning, and  Taylor on <START:datetime> March 18 2016 at 10:45 PM <END> for 5 hours to discuss world peace . 
+Please schedule a meeting with  Hudson,  Hart, and  Paterson on <START:datetime> September 18 2015 at 1:30 AM <END> for 9 hours to discuss our hiring process . 
+Need a meeting with  Hemmings and  Knox on <START:datetime> December 11 2015 at 11:00AM <END> for 9 hours to talk about our hiring process . 
+Create an appointment with  Roberts and  Sanderson on <START:datetime> September 25 2015 at 09:30AM <END> for 10 hours to discuss our QA approach . 
+Create a meeting with  Blake on <START:datetime> November 21 2015 at 07:15AM <END> for 30 minutes to talk about our hiring process . 
+Create an appointment with  Morgan,  Miller, and  Lyman on <START:datetime> Sep 9 2015 at 11:45 PM <END> for 6 hours to discuss economic trends . 
+Please create a meeting with  Edmunds on <START:datetime> August 27 2015 at 12:45 PM <END> for 45 minutes to chat about the case . 
+Schedule a meeting with  Sharp on <START:datetime> Mar 10 2016 at 3:45 AM <END> for 3 hours to discuss our QA approach . 
+Need a meeting with  Davidson on <START:datetime> November 16 2015 at 06:45PM <END> for 6 hours to brainstorm about the contract . 
+Please create a meeting with  Marshall,  Smith, and  Peake on <START:datetime> Jan 4 2016 at 5:45 PM <END> for 7 hours to brainstorm about our testing strategy . 
+Create a meeting with  Metcalfe,  Harris, and  Chapman on <START:datetime> Feb 6 2016 at 10:00 PM <END> for 6 hours to review the summary statistics . 
+Create an appointment with  Randall,  Clarkson, and  Allan on <START:datetime> August 7 2015 at 09:45PM <END> for 30 minutes to fine tune the points . 
+Schedule a meeting with  Slater and  Martin on <START:datetime> Jun 11 2015 at 9:45 AM <END> for 8 hours to discuss the contract . 
+Please create a meeting with  Bower and  Paige on <START:datetime> February 8 2016 at 10:45 PM <END> for 3 hours to discuss our testing strategy . 
+Create a meeting with  Gray on <START:datetime> July 26 2015 at 10:45PM <END> for 2 hours to have a brief discussion . 
+Schedule an appointment with  Lambert and  Chapman on <START:datetime> July 16 2015 at 01:10PM <END> for 8 hours to discuss our hiring process . 
+Create a meeting with  Bell on <START:datetime> Feb 20 2016 at 6:00 PM <END> for 45 minutes to discuss economic trends . 
+Please create an appointment with  Clarkson on <START:datetime> May 26 2015 at 01:45AM <END> for 45 minutes to discuss our QA approach . 
+Schedule an appointment with  Anderson and  Churchill on <START:datetime> Sep 20 2015 at 11:10 PM <END> for 15 minutes to brainstorm about our testing strategy . 
+Please schedule a meeting with  Poole on <START:datetime> Nov 11 2015 at 5:00AM <END> for 4 hours to brainstorm about our QA strategy . 
+Need a meeting with  Hemmings on <START:datetime> Oct 5 2015 at 4:10PM <END> for 7 hours to discuss our QA approach . 
+Create a meeting with  Nolan,  Edmunds, and  Payne on <START:datetime> May 28 2015 at 7:45 AM <END> for 8 hours to brainstorm about the contract . 
+Please create an appointment with  Piper on <START:datetime> February 15 2016 at 3:10 AM <END> for 4 hours to discuss the contract . 
+Please create a meeting with  Powell on <START:datetime> March 20 2016 at 2:45 AM <END> for 10 hours to discuss our QA approach . 
+Schedule an appointment with  Jones,  Miller, and  Rampling on <START:datetime> Aug 8 2015 at 1:30 AM <END> for 4 hours to fine tune our pitch . 
+Please create a meeting with  Berry and  Parr on <START:datetime> Sep 3 2015 at 5:00 AM <END> for 9 hours to review the summary statistics . 
+Schedule an appointment with  Rees on <START:datetime> September 8 2015 at 7:15 PM <END> for 8 hours to discuss world peace . 
+Please schedule an appointment with  May on <START:datetime> August 20 2015 at 4:00 PM <END> for 2 hours to discuss world peace . 
+Please create an appointment with  Jones on <START:datetime> Apr 13 2015 at 3:15PM <END> for 30 minutes to discuss economic trends . 
+Create an appointment with  Randall on <START:datetime> June 11 2015 at 2:00 AM <END> for 7 hours to discuss our hiring process . 
+Please create an appointment with  Hodges,  Rutherford, and  Vaughan on <START:datetime> September 22 2015 at 3:00 AM <END> for 4 hours to discuss our QA approach . 
+Create an appointment with  Randall on <START:datetime> Sep 29 2015 at 1:45AM <END> for 6 hours to brainstorm about the contract . 
+Create an appointment with  Slater on <START:datetime> August 14 2015 at 10:00AM <END> for 45 minutes to brainstorm about the main topic . 
+Create a meeting with  Wilkins on <START:datetime> December 12 2015 at 8:10 AM <END> for 3 hours to discuss our testing strategy . 
+Need an appointment with  Sharp and  Metcalfe on <START:datetime> Aug 28 2015 at 1:00AM <END> for 1 hour to discuss world peace . 
+Need a meeting with  North on <START:datetime> February 5 2016 at 11:45PM <END> for 4 hours to brainstorm about the contract . 
+Create a meeting with  Wright and  Allan on <START:datetime> February 13 2016 at 01:30AM <END> for 6 hours to discuss our hiring process . 
+Create an appointment with  Short,  Payne, and  Gill on <START:datetime> October 4 2015 at 09:30AM <END> for 4 hours to brainstorm about the contract . 
+Need an appointment with  Parsons on <START:datetime> Nov 26 2015 at 9:45AM <END> for 1 hour to brainstorm about our testing strategy . 
+Please schedule an appointment with  Clark and  Lambert on <START:datetime> February 18 2016 at 11:15 PM <END> for 30 minutes to discuss our hiring process . 
+Need a meeting with  Paige on <START:datetime> June 16 2015 at 10:10PM <END> for 2 hours to chat about the case . 
+Please create an appointment with  Morrison,  Mitchell, and  Hardacre on <START:datetime> June 21 2015 at 5:00 AM <END> for 6 hours to chat about the case . 
+Need a meeting with  Payne,  Campbell, and  Parr on <START:datetime> June 16 2015 at 6:00 AM <END> for 7 hours to brainstorm about the contract . 
+Need an appointment with  Carr and  Lyman on <START:datetime> November 13 2015 at 4:45 PM <END> for 30 minutes to discuss our hiring process . 
+Please create an appointment with  Langdon and  Forsyth on <START:datetime> July 12 2015 at 6:15 AM <END> for 4 hours to have a brief discussion . 
+Please schedule an appointment with  Buckland and  Rees on <START:datetime> Dec 2 2015 at 8:10 AM <END> for 45 minutes to fine tune the points . 
+Create an appointment with  Carr and  Morgan on <START:datetime> Apr 22 2015 at 7:10 AM <END> for 9 hours to discuss world peace . 
+Schedule an appointment with  Powell and  Lambert on <START:datetime> October 20 2015 at 10:30 AM <END> for 15 minutes to brainstorm about the contract . 
+Please create a meeting with  Hudson on <START:datetime> November 25 2015 at 2:00 AM <END> for 4 hours to brainstorm about our QA strategy . 
+Create an appointment with  Morrison on <START:datetime> November 21 2015 at 12:15 PM <END> for 15 minutes to discuss economic trends . 
+Need an appointment with  Ogden,  Marshall, and  Churchill on <START:datetime> January 12 2016 at 6:15 AM <END> for 9 hours to discuss economic trends . 
+Create an appointment with  Wallace,  Knox, and  Fraser on <START:datetime> February 6 2016 at 03:30PM <END> for 7 hours to discuss our QA approach . 
+Please schedule an appointment with  Walker and  Lyman on <START:datetime> July 30 2015 at 10:15AM <END> for 6 hours to brainstorm about the contract . 
+Create a meeting with  Dowd,  Hughes, and  Paterson on <START:datetime> July 24 2015 at 03:15AM <END> for 6 hours to discuss economic trends . 
+Create a meeting with  Ogden,  Lambert, and  Kelly on <START:datetime> Dec 7 2015 at 6:10 PM <END> for 30 minutes to discuss world peace . 
+Need an appointment with  Manning,  Vance, and  Coleman on <START:datetime> September 3 2015 at 06:10PM <END> for 1 hour to discuss economic trends . 
+Need an appointment with  Sutherland,  Scott, and  MacDonald on <START:datetime> Oct 30 2015 at 10:00PM <END> for 15 minutes to discuss the contract . 
+Schedule an appointment with  Hodges,  Young, and  Hudson on <START:datetime> Feb 8 2016 at 8:10 PM <END> for 45 minutes to review the summary statistics . 
+Please schedule an appointment with  Mackenzie,  Wilkins, and  Parsons on <START:datetime> May 3 2015 at 8:10PM <END> for 30 minutes to brainstorm about our testing strategy . 
+Please create a meeting with  Ball and  Morrison on <START:datetime> April 7 2015 at 9:15 PM <END> for 4 hours to fine tune the points . 
+Create a meeting with  Bell,  MacLeod, and  Alsop on <START:datetime> June 15 2015 at 7:15 PM <END> for 9 hours to brainstorm about our QA strategy . 
+Schedule an appointment with  Arnold and  Gray on <START:datetime> January 15 2016 at 02:00PM <END> for 15 minutes to fine tune the points . 
+Schedule a meeting with  Metcalfe,  Piper, and  Alsop on <START:datetime> Feb 22 2016 at 3:30 PM <END> for 8 hours to discuss our testing strategy . 
+Need an appointment with  Davies,  Gray, and  Morrison on <START:datetime> Dec 8 2015 at 10:00PM <END> for 9 hours to discuss world peace . 
+Schedule a meeting with  Allan and  Dyer on <START:datetime> April 19 2015 at 9:10 AM <END> for 10 hours to brainstorm about the contract . 
+Please create a meeting with  Smith on <START:datetime> March 10 2016 at 5:30 PM <END> for 30 minutes to discuss the contract . 
+Create a meeting with  Randall and  Ogden on <START:datetime> December 16 2015 at 01:10AM <END> for 9 hours to discuss our hiring process . 
+Please schedule an appointment with  Slater,  Hudson, and  Henderson on <START:datetime> Oct 3 2015 at 9:15 PM <END> for 5 hours to discuss our hiring process . 
+Create a meeting with  Hunter and  Murray on <START:datetime> June 3 2015 at 9:45 PM <END> for 2 hours to review the summary statistics . 
+Need an appointment with  Avery,  Tucker, and  Churchill on <START:datetime> June 26 2015 at 7:15 PM <END> for 30 minutes to discuss the contract . 
+Need a meeting with  Blake,  Peters, and  Bell on <START:datetime> March 16 2016 at 12:00AM <END> for 10 hours to have a brief discussion . 
+Please schedule a meeting with  Hodges on <START:datetime> May 10 2015 at 10:15PM <END> for 4 hours to fine tune our pitch . 
+Create an appointment with  James,  Hamilton, and  Hodges on <START:datetime> April 5 2015 at 3:15 AM <END> for 30 minutes to brainstorm about the main topic . 
+Create an appointment with  Slater on <START:datetime> Jan 15 2016 at 9:00 AM <END> for 2 hours to discuss world peace . 
+Please schedule an appointment with  Fisher and  Fraser on <START:datetime> Oct 1 2015 at 6:00AM <END> for 7 hours to review the summary statistics . 
+Need an appointment with  Chapman,  Dyer, and  Dickens on <START:datetime> July 9 2015 at 1:10 AM <END> for 4 hours to talk about our hiring process . 
+Schedule a meeting with  Hill on <START:datetime> July 2 2015 at 12:15 AM <END> for 45 minutes to have a brief discussion . 
+Please create a meeting with  Walker and  North on <START:datetime> October 27 2015 at 02:30PM <END> for 15 minutes to review the summary statistics . 
+Please schedule a meeting with  Newman,  Hemmings, and  Hill on <START:datetime> August 8 2015 at 12:15PM <END> for 3 hours to brainstorm about the contract . 
+Please schedule an appointment with  Springer on <START:datetime> December 27 2015 at 11:00AM <END> for 6 hours to review the summary statistics . 
+Schedule a meeting with  Butler,  Marshall, and  May on <START:datetime> May 4 2015 at 1:30 PM <END> for 5 hours to brainstorm about the contract . 
+Create a meeting with  Blake and  Lawrence on <START:datetime> Dec 23 2015 at 3:15 AM <END> for 8 hours to brainstorm about our QA strategy . 
+Please schedule an appointment with  Fraser,  Morrison, and  Ince on <START:datetime> Mar 31 2015 at 5:45PM <END> for 7 hours to brainstorm about the contract . 
+Create a meeting with  Skinner on <START:datetime> Apr 19 2015 at 8:00AM <END> for 3 hours to discuss world peace . 
+Create a meeting with  Ross on <START:datetime> Jul 28 2015 at 8:00AM <END> for 45 minutes to brainstorm about the contract . 
+Create a meeting with  Hill on <START:datetime> Mar 27 2015 at 10:00 PM <END> for 10 hours to discuss economic trends . 
+Create an appointment with  Clark on <START:datetime> Aug 2 2015 at 9:30PM <END> for 15 minutes to brainstorm about our testing strategy . 
+Please schedule an appointment with  Sutherland and  Roberts on <START:datetime> Apr 11 2015 at 9:00AM <END> for 5 hours to fine tune the points . 
+Need an appointment with  Arnold,  Bell, and  Wilson on <START:datetime> Dec 3 2015 at 3:10PM <END> for 2 hours to discuss our hiring process . 
+Need an appointment with  Scott,  Turner, and  Dowd on <START:datetime> Jul 16 2015 at 4:00 PM <END> for 15 minutes to have a brief discussion . 
+Need a meeting with  Abraham and  Hardacre on <START:datetime> May 13 2015 at 1:45AM <END> for 9 hours to discuss our testing strategy . 
+Please schedule a meeting with  Alsop and  Bond on <START:datetime> Jul 19 2015 at 9:10AM <END> for 6 hours to talk about our hiring process . 
+Need a meeting with  Rutherford and  Fraser on <START:datetime> July 28 2015 at 6:30 AM <END> for 30 minutes to discuss our QA approach . 
+Schedule a meeting with  Anderson,  Gray, and  Lawrence on <START:datetime> September 25 2015 at 04:45PM <END> for 4 hours to discuss world peace . 
+Please create an appointment with  Dickens and  Wright on <START:datetime> Jul 26 2015 at 1:30AM <END> for 1 hour to discuss our hiring process . 
+Please schedule an appointment with  Ellison,  Roberts, and  Hemmings on <START:datetime> June 14 2015 at 11:30 PM <END> for 2 hours to brainstorm about our testing strategy . 
+Need a meeting with  Hemmings on <START:datetime> May 18 2015 at 4:15 AM <END> for 30 minutes to discuss our testing strategy . 
+Schedule a meeting with  Lee on <START:datetime> May 15 2015 at 4:00 PM <END> for 45 minutes to have a brief discussion . 
+Create an appointment with  Marshall and  Hamilton on <START:datetime> Jun 28 2015 at 9:10AM <END> for 9 hours to brainstorm about the main topic . 
+Schedule a meeting with  Welch on <START:datetime> May 2 2015 at 5:10 PM <END> for 7 hours to discuss our QA approach . 
+Please create an appointment with  Glover,  Fraser, and  Butler on <START:datetime> Feb 19 2016 at 3:30AM <END> for 5 hours to brainstorm about our testing strategy . 
+Please schedule a meeting with  Lyman on <START:datetime> October 17 2015 at 06:00AM <END> for 15 minutes to chat about the case . 
+Schedule an appointment with  Parr,  Edmunds, and  Rutherford on <START:datetime> April 24 2015 at 01:30AM <END> for 8 hours to brainstorm about the contract . 
+Please schedule a meeting with  Quinn on <START:datetime> February 17 2016 at 12:30 PM <END> for 10 hours to brainstorm about the main topic . 
+Create an appointment with  Kerr on <START:datetime> Feb 8 2016 at 7:15AM <END> for 7 hours to chat about the case . 
+Create an appointment with  Martin on <START:datetime> Jun 23 2015 at 11:45 PM <END> for 8 hours to review the summary statistics . 
+Please schedule a meeting with  Martin,  Bell, and  Oliver on <START:datetime> Dec 23 2015 at 8:15 PM <END> for 45 minutes to brainstorm about our testing strategy . 
+Please create an appointment with  Harris and  Lyman on <START:datetime> April 5 2015 at 12:30AM <END> for 7 hours to discuss our testing strategy . 
+Need a meeting with  Clarkson,  Burgess, and  Hunter on <START:datetime> Jan 18 2016 at 7:45 PM <END> for 2 hours to discuss world peace . 
+Please create a meeting with  Mitchell on <START:datetime> October 30 2015 at 8:30 PM <END> for 6 hours to brainstorm about our testing strategy . 
+Create an appointment with  Mitchell on <START:datetime> January 3 2016 at 3:30 AM <END> for 2 hours to discuss our testing strategy . 
+Please create an appointment with  Ogden on <START:datetime> November 4 2015 at 2:10 AM <END> for 6 hours to discuss world peace . 
+Schedule an appointment with  Chapman on <START:datetime> Jun 20 2015 at 1:15 AM <END> for 1 hour to discuss the contract . 
+Please create an appointment with  Langdon and  Churchill on <START:datetime> Jan 1 2016 at 7:00AM <END> for 45 minutes to review the summary statistics . 
+Please create a meeting with  Bond,  Sharp, and  Rampling on <START:datetime> Mar 3 2016 at 3:00 AM <END> for 1 hour to discuss our testing strategy . 
+Schedule an appointment with  MacLeod,  Murray, and  Sanderson on <START:datetime> Mar 4 2016 at 11:00AM <END> for 4 hours to talk about our hiring process . 
+Schedule an appointment with  Thomson on <START:datetime> Jul 21 2015 at 10:10 PM <END> for 7 hours to chat about the case . 
+Schedule an appointment with  Henderson,  Short, and  Bond on <START:datetime> Dec 3 2015 at 6:15 AM <END> for 9 hours to brainstorm about the contract . 
+Please schedule a meeting with  Tucker,  Churchill, and  Arnold on <START:datetime> Jul 20 2015 at 3:45 PM <END> for 45 minutes to discuss economic trends . 
+Create a meeting with  Short and  McDonald on <START:datetime> September 28 2015 at 9:15 AM <END> for 10 hours to discuss the contract . 
+Please create an appointment with  Ince and  Knox on <START:datetime> July 26 2015 at 05:10AM <END> for 15 minutes to fine tune the points . 
+Create a meeting with  Black on <START:datetime> September 2 2015 at 09:45PM <END> for 8 hours to discuss world peace . 
+Please schedule a meeting with  Terry,  Hudson, and  Pullman on <START:datetime> February 23 2016 at 11:45PM <END> for 30 minutes to fine tune our pitch . 
+Create a meeting with  Lewis and  Sanderson on <START:datetime> June 16 2015 at 8:10 AM <END> for 1 hour to chat about the case . 
+Create an appointment with  MacLeod,  Roberts, and  Dowd on <START:datetime> September 22 2015 at 8:10 PM <END> for 4 hours to fine tune our pitch . 
+Schedule an appointment with  North,  McLean, and  Piper on <START:datetime> Jun 15 2015 at 2:10 AM <END> for 3 hours to brainstorm about our QA strategy . 
+Please create an appointment with  Knox,  Wallace, and  Hamilton on <START:datetime> April 7 2015 at 9:00 PM <END> for 9 hours to brainstorm about the main topic . 
+Please create an appointment with  Metcalfe and  Davies on <START:datetime> Mar 19 2016 at 4:00 AM <END> for 7 hours to brainstorm about our QA strategy . 
+Schedule a meeting with  Underwood on <START:datetime> March 17 2016 at 5:45 AM <END> for 8 hours to discuss our hiring process . 
+Schedule an appointment with  Kerr,  Miller, and  Lee on <START:datetime> Feb 15 2016 at 7:45 PM <END> for 45 minutes to brainstorm about our QA strategy . 
+Please schedule a meeting with  Springer on <START:datetime> Aug 10 2015 at 2:45 PM <END> for 45 minutes to brainstorm about the contract . 
+Please create an appointment with  Marshall and  McGrath on <START:datetime> November 16 2015 at 04:10PM <END> for 8 hours to brainstorm about our testing strategy . 
+Schedule a meeting with  Wallace,  Paterson, and  Jones on <START:datetime> Jan 7 2016 at 7:45AM <END> for 10 hours to review the summary statistics . 
+Schedule a meeting with  Howard,  Anderson, and  Coleman on <START:datetime> Aug 26 2015 at 7:15 PM <END> for 45 minutes to brainstorm about the contract . 
+Please create a meeting with  Davidson,  Wilkins, and  Short on <START:datetime> Dec 6 2015 at 12:30AM <END> for 7 hours to discuss world peace . 
+Create an appointment with  Bond,  Gibson, and  Murray on <START:datetime> October 15 2015 at 02:00PM <END> for 7 hours to discuss our testing strategy . 
+Please create an appointment with  Mitchell on <START:datetime> Jul 26 2015 at 5:10PM <END> for 7 hours to brainstorm about our testing strategy . 
+Create a meeting with  Coleman on <START:datetime> Dec 6 2015 at 5:00 PM <END> for 4 hours to chat about the case . 
+Schedule a meeting with  Mathis and  Duncan on <START:datetime> June 14 2015 at 1:15 PM <END> for 4 hours to discuss world peace . 
+Please schedule an appointment with  Ross,  Taylor, and  King on <START:datetime> Oct 26 2015 at 1:10 AM <END> for 2 hours to discuss world peace . 
+Need a meeting with  North and  Clarkson on <START:datetime> Oct 22 2015 at 6:45 PM <END> for 1 hour to discuss our hiring process . 
+Need an appointment with  Abraham,  Robertson, and  Stewart on <START:datetime> December 4 2015 at 02:10PM <END> for 9 hours to review the summary statistics . 
+Schedule an appointment with  Ferguson on <START:datetime> Dec 24 2015 at 7:15 AM <END> for 3 hours to brainstorm about the main topic . 
+Please schedule an appointment with  North,  Parr, and  Vaughan on <START:datetime> Jan 30 2016 at 1:30PM <END> for 45 minutes to discuss our QA approach . 
+Please schedule a meeting with  Slater,  Lawrence, and  Wilkins on <START:datetime> April 19 2015 at 06:15PM <END> for 45 minutes to discuss our testing strategy . 
+Please create an appointment with  Hardacre,  Payne, and  Howard on <START:datetime> August 1 2015 at 5:15 AM <END> for 1 hour to brainstorm about our testing strategy . 
+Need a meeting with  Dickens,  Fraser, and  Vance on <START:datetime> May 27 2015 at 6:00 AM <END> for 30 minutes to talk about our hiring process . 
+Schedule an appointment with  Taylor,  Davidson, and  Dyer on <START:datetime> October 6 2015 at 6:00 PM <END> for 30 minutes to fine tune the points . 
+Please create an appointment with  King and  Gill on <START:datetime> Mar 17 2016 at 11:15 PM <END> for 30 minutes to brainstorm about our testing strategy . 
+Need a meeting with  Peake on <START:datetime> October 27 2015 at 12:45AM <END> for 30 minutes to talk about our hiring process . 
+Need a meeting with  Hardacre on <START:datetime> July 15 2015 at 2:45 PM <END> for 8 hours to fine tune our pitch . 
+Schedule a meeting with  Henderson,  Burgess, and  Morrison on <START:datetime> October 11 2015 at 1:45 AM <END> for 8 hours to have a brief discussion . 
+Schedule a meeting with  Ogden and  Morgan on <START:datetime> March 15 2016 at 04:30PM <END> for 6 hours to fine tune our pitch . 
+Need an appointment with  Morrison,  Hardacre, and  Bower on <START:datetime> April 17 2015 at 8:10 PM <END> for 3 hours to discuss economic trends . 
+Please create an appointment with  Harris,  Kerr, and  Peters on <START:datetime> August 6 2015 at 12:30AM <END> for 5 hours to discuss our hiring process . 
+Please schedule an appointment with  Taylor,  Terry, and  Rees on <START:datetime> September 5 2015 at 8:45 AM <END> for 15 minutes to brainstorm about our QA strategy . 
+Please schedule an appointment with  Hamilton and  Parr on <START:datetime> July 12 2015 at 11:45PM <END> for 15 minutes to fine tune the points . 
+Please create an appointment with  Jackson,  Allan, and  Newman on <START:datetime> February 16 2016 at 09:45PM <END> for 6 hours to discuss world peace . 
+Schedule a meeting with  Walsh on <START:datetime> Sep 2 2015 at 5:10 AM <END> for 5 hours to brainstorm about our QA strategy . 
+Create an appointment with  Dyer on <START:datetime> Apr 5 2015 at 7:15 AM <END> for 15 minutes to fine tune the points . 
+Schedule an appointment with  Kerr on <START:datetime> November 5 2015 at 08:45PM <END> for 6 hours to chat about the case . 
+Please schedule a meeting with  Arnold,  Poole, and  Campbell on <START:datetime> Aug 7 2015 at 4:10PM <END> for 5 hours to discuss our QA approach . 
+Need a meeting with  Avery on <START:datetime> Dec 13 2015 at 5:45AM <END> for 9 hours to discuss economic trends . 
+Create a meeting with  Nash,  Greene, and  Allan on <START:datetime> Jun 18 2015 at 3:30PM <END> for 30 minutes to talk about our hiring process . 
+Please create a meeting with  Turner,  Brown, and  Slater on <START:datetime> Dec 18 2015 at 5:00 AM <END> for 9 hours to fine tune our pitch . 
+Please create an appointment with  Paterson on <START:datetime> July 20 2015 at 5:00 PM <END> for 8 hours to discuss economic trends . 
+Schedule an appointment with  Martin,  Blake, and  Roberts on <START:datetime> November 24 2015 at 03:15AM <END> for 45 minutes to discuss our QA approach . 
+Schedule an appointment with  Churchill and  Cameron on <START:datetime> Oct 24 2015 at 9:10 AM <END> for 7 hours to have a brief discussion . 
+Schedule a meeting with  White and  Powell on <START:datetime> October 18 2015 at 06:10AM <END> for 3 hours to fine tune our pitch . 
+Please create an appointment with  Lambert,  Simpson, and  McGrath on <START:datetime> Dec 7 2015 at 7:30PM <END> for 9 hours to fine tune the points . 
+Please create an appointment with  Mackay and  Buckland on <START:datetime> July 9 2015 at 03:30AM <END> for 9 hours to discuss our hiring process . 
+Need a meeting with  Harris on <START:datetime> July 10 2015 at 5:30 AM <END> for 2 hours to review the summary statistics . 
+Please schedule an appointment with  Baker,  Brown, and  Turner on <START:datetime> May 11 2015 at 8:30 PM <END> for 6 hours to discuss our hiring process . 
+Need an appointment with  Thomson,  Ferguson, and  McGrath on <START:datetime> January 13 2016 at 09:45AM <END> for 7 hours to brainstorm about our testing strategy . 
+Create a meeting with  Sanderson,  Welch, and  Peake on <START:datetime> Sep 16 2015 at 10:15AM <END> for 10 hours to talk about our hiring process . 
+Create a meeting with  Grant on <START:datetime> Aug 13 2015 at 12:15 AM <END> for 45 minutes to brainstorm about our QA strategy . 
+Need a meeting with  Springer on <START:datetime> March 16 2016 at 4:45 AM <END> for 10 hours to discuss our QA approach . 
+Create an appointment with  Black and  Bell on <START:datetime> June 13 2015 at 05:15AM <END> for 8 hours to have a brief discussion . 
+Schedule a meeting with  Graham and  Bell on <START:datetime> Feb 10 2016 at 5:15PM <END> for 3 hours to brainstorm about our testing strategy . 
+Schedule an appointment with  Peters and  Anderson on <START:datetime> January 24 2016 at 7:15 PM <END> for 4 hours to brainstorm about the main topic . 
+Please create a meeting with  Arnold,  Baker, and  Sharp on <START:datetime> Jun 22 2015 at 5:00 PM <END> for 7 hours to talk about our hiring process . 
+Please create a meeting with  Terry on <START:datetime> Jul 1 2015 at 4:30AM <END> for 15 minutes to discuss our testing strategy . 
+Please schedule a meeting with  Hart and  Glover on <START:datetime> March 1 2016 at 11:15 PM <END> for 7 hours to fine tune our pitch . 
+Please schedule a meeting with  Hamilton on <START:datetime> Jan 11 2016 at 6:30PM <END> for 8 hours to discuss our hiring process . 
+Please create an appointment with  Springer,  Parsons, and  Hemmings on <START:datetime> March 29 2015 at 08:45PM <END> for 15 minutes to discuss economic trends . 
+Create a meeting with  Kerr and  Jones on <START:datetime> Dec 20 2015 at 10:15 PM <END> for 7 hours to fine tune the points . 
+Need an appointment with  Bond and  Kerr on <START:datetime> Nov 13 2015 at 10:30AM <END> for 1 hour to discuss world peace . 
+Please schedule a meeting with  Hunter and  Mackenzie on <START:datetime> Oct 5 2015 at 9:45AM <END> for 10 hours to discuss our testing strategy . 
+Schedule a meeting with  Dyer on <START:datetime> Jul 3 2015 at 4:10AM <END> for 7 hours to brainstorm about the main topic . 
+Schedule a meeting with  Black and  Sharp on <START:datetime> September 3 2015 at 11:00PM <END> for 3 hours to fine tune our pitch . 
+Please create an appointment with  Avery and  Bower on <START:datetime> January 14 2016 at 04:10AM <END> for 45 minutes to brainstorm about our testing strategy . 
+Need a meeting with  Hodges on <START:datetime> Sep 20 2015 at 2:10AM <END> for 5 hours to brainstorm about the contract . 
+Need a meeting with  Ball on <START:datetime> Oct 17 2015 at 10:45AM <END> for 6 hours to discuss our testing strategy . 
+Need an appointment with  Russell,  Hughes, and  Arnold on <START:datetime> Mar 10 2016 at 3:30PM <END> for 4 hours to fine tune the points . 
+Need an appointment with  Campbell on <START:datetime> April 14 2015 at 10:15 AM <END> for 10 hours to brainstorm about our testing strategy . 
+Need a meeting with  Mackenzie and  Greene on <START:datetime> February 27 2016 at 7:00 AM <END> for 10 hours to discuss the contract . 
+Need a meeting with  Lambert on <START:datetime> Jun 30 2015 at 7:00 PM <END> for 8 hours to brainstorm about the contract . 
+Please create an appointment with  Metcalfe and  Simpson on <START:datetime> Aug 14 2015 at 10:00 PM <END> for 45 minutes to have a brief discussion . 
+Please schedule an appointment with  Hunter on <START:datetime> July 1 2015 at 10:10PM <END> for 6 hours to discuss economic trends . 
+Schedule an appointment with  Gray and  Martin on <START:datetime> Jul 12 2015 at 9:10 PM <END> for 30 minutes to brainstorm about our QA strategy . 
+Schedule an appointment with  Paige,  Campbell, and  Manning on <START:datetime> Oct 4 2015 at 11:00AM <END> for 2 hours to discuss our QA approach . 
+Please create a meeting with  Churchill and  Terry on <START:datetime> Feb 1 2016 at 12:00AM <END> for 10 hours to brainstorm about our testing strategy . 
+Schedule a meeting with  Mills on <START:datetime> October 12 2015 at 11:10 PM <END> for 3 hours to talk about our hiring process . 
+Create an appointment with  Vance,  Cornish, and  Abraham on <START:datetime> Aug 28 2015 at 6:15AM <END> for 8 hours to discuss world peace . 
+Schedule a meeting with  Butler,  Peake, and  Metcalfe on <START:datetime> Aug 25 2015 at 6:15 AM <END> for 4 hours to review the summary statistics . 
+Please schedule a meeting with  Clarkson,  Thomson, and  May on <START:datetime> Jan 30 2016 at 4:45 PM <END> for 8 hours to discuss economic trends . 
+Create an appointment with  Mitchell on <START:datetime> March 3 2016 at 2:10 AM <END> for 45 minutes to fine tune our pitch . 
+Need a meeting with  Clark on <START:datetime> Jan 23 2016 at 9:30PM <END> for 15 minutes to have a brief discussion . 
+Please create an appointment with  Brown,  King, and  Piper on <START:datetime> Jan 7 2016 at 4:15AM <END> for 9 hours to review the summary statistics . 
+Create a meeting with  Sharp on <START:datetime> September 26 2015 at 7:00 AM <END> for 6 hours to discuss economic trends . 
+Schedule a meeting with  McLean and  Graham on <START:datetime> October 23 2015 at 9:10 PM <END> for 8 hours to fine tune the points . 
+Need a meeting with  Morgan and  Russell on <START:datetime> Mar 15 2016 at 5:15 AM <END> for 8 hours to fine tune the points . 
+Need an appointment with  Quinn and  Terry on <START:datetime> July 19 2015 at 11:30 PM <END> for 4 hours to fine tune the points . 
+Create a meeting with  Bower and  Springer on <START:datetime> November 13 2015 at 07:10PM <END> for 30 minutes to discuss our QA approach . 
+Need an appointment with  Abraham,  Springer, and  Avery on <START:datetime> Jun 4 2015 at 10:45 PM <END> for 30 minutes to brainstorm about our QA strategy . 
+Need a meeting with  Powell on <START:datetime> Oct 18 2015 at 9:45PM <END> for 9 hours to have a brief discussion . 
+Create a meeting with  Wilkins and  Clark on <START:datetime> August 19 2015 at 5:00 AM <END> for 9 hours to discuss our hiring process . 
+Schedule an appointment with  McGrath on <START:datetime> July 17 2015 at 7:30 PM <END> for 9 hours to chat about the case . 
+Create a meeting with  Hudson,  Ogden, and  Wilkins on <START:datetime> May 13 2015 at 4:10PM <END> for 1 hour to fine tune our pitch . 
+Schedule a meeting with  Hart and  Wilson on <START:datetime> September 11 2015 at 04:45AM <END> for 3 hours to discuss our hiring process . 
+Create a meeting with  Ball and  Butler on <START:datetime> Sep 6 2015 at 3:00PM <END> for 2 hours to discuss the contract . 
+Need an appointment with  Vaughan and  Davidson on <START:datetime> Nov 4 2015 at 8:10PM <END> for 2 hours to brainstorm about our QA strategy . 
+Need an appointment with  Kelly and  McDonald on <START:datetime> Apr 25 2015 at 4:15 AM <END> for 30 minutes to discuss our testing strategy . 
+Please create a meeting with  Howard on <START:datetime> Nov 2 2015 at 10:15 AM <END> for 45 minutes to review the summary statistics . 
+Create a meeting with  Short on <START:datetime> August 17 2015 at 07:00AM <END> for 2 hours to discuss the contract . 
+Please schedule an appointment with  Cornish on <START:datetime> Jan 5 2016 at 4:45AM <END> for 6 hours to discuss our testing strategy . 
+Please schedule a meeting with  Sharp and  Graham on <START:datetime> Jun 18 2015 at 11:30 PM <END> for 15 minutes to discuss economic trends . 
+Please schedule an appointment with  Dyer and  Vance on <START:datetime> November 7 2015 at 08:45PM <END> for 30 minutes to discuss our testing strategy . 
+Create a meeting with  Anderson on <START:datetime> Dec 15 2015 at 11:10PM <END> for 5 hours to brainstorm about our QA strategy . 
+Schedule a meeting with  Rampling on <START:datetime> May 18 2015 at 10:10AM <END> for 2 hours to fine tune our pitch . 
+Please create an appointment with  Rutherford on <START:datetime> December 14 2015 at 3:30 PM <END> for 6 hours to discuss economic trends . 
+Please create an appointment with  Cameron and  Carr on <START:datetime> January 28 2016 at 9:30 PM <END> for 3 hours to brainstorm about the main topic . 
+Create an appointment with  Hughes and  Ferguson on <START:datetime> September 1 2015 at 10:10 PM <END> for 9 hours to chat about the case . 
+Schedule a meeting with  Hughes and  McLean on <START:datetime> May 2 2015 at 5:30 PM <END> for 4 hours to chat about the case . 
+Please create a meeting with  Lawrence,  Ellison, and  Ogden on <START:datetime> Mar 4 2016 at 1:30AM <END> for 3 hours to review the summary statistics . 
+Create an appointment with  Butler on <START:datetime> April 29 2015 at 12:30 AM <END> for 7 hours to brainstorm about our QA strategy . 
+Need a meeting with  Henderson,  Lyman, and  Glover on <START:datetime> January 24 2016 at 10:10AM <END> for 6 hours to discuss our QA approach . 
+Need a meeting with  Brown,  Parsons, and  Hardacre on <START:datetime> Aug 28 2015 at 2:10 PM <END> for 30 minutes to have a brief discussion . 
+Please create a meeting with  Ross and  Churchill on <START:datetime> Jul 10 2015 at 12:15 PM <END> for 9 hours to have a brief discussion . 
+Need a meeting with  Sharp and  Morrison on <START:datetime> May 26 2015 at 04:00AM <END> for 1 hour to review the summary statistics . 
+Please schedule a meeting with  Clark,  Cameron, and  Slater on <START:datetime> March 8 2016 at 5:00 AM <END> for 30 minutes to discuss our hiring process . 
+Please create an appointment with  Howard,  Brown, and  Hodges on <START:datetime> Jan 8 2016 at 9:10PM <END> for 6 hours to talk about our hiring process . 
+Please create an appointment with  Poole and  Wilson on <START:datetime> Dec 21 2015 at 1:30 AM <END> for 6 hours to talk about our hiring process . 
+Please create an appointment with  Rees,  Morgan, and  Peake on <START:datetime> August 6 2015 at 07:30PM <END> for 1 hour to talk about our hiring process . 
+Schedule an appointment with  Watson and  Hart on <START:datetime> Aug 22 2015 at 3:45PM <END> for 4 hours to have a brief discussion . 
+Please schedule a meeting with  Ferguson on <START:datetime> December 10 2015 at 6:10 PM <END> for 6 hours to brainstorm about our QA strategy . 
+Please create a meeting with  Forsyth on <START:datetime> July 13 2015 at 10:10PM <END> for 45 minutes to talk about our hiring process . 
+Please create an appointment with  McLean on <START:datetime> October 12 2015 at 09:00PM <END> for 6 hours to fine tune the points . 
+Please create an appointment with  Henderson,  Paige, and  Morgan on <START:datetime> Jan 6 2016 at 3:15PM <END> for 8 hours to fine tune our pitch . 
+Schedule a meeting with  Turner on <START:datetime> February 20 2016 at 8:15 AM <END> for 9 hours to brainstorm about the contract . 
+Create a meeting with  Miller,  McLean, and  Lee on <START:datetime> Nov 14 2015 at 7:00AM <END> for 6 hours to discuss the contract . 
+Create an appointment with  Ince,  Edmunds, and  Gibson on <START:datetime> Aug 10 2015 at 10:15AM <END> for 2 hours to brainstorm about the main topic . 
+Create an appointment with  Ogden,  Payne, and  Butler on <START:datetime> September 14 2015 at 4:45 PM <END> for 2 hours to talk about our hiring process . 
+Please schedule an appointment with  Kerr and  Martin on <START:datetime> September 13 2015 at 06:10AM <END> for 1 hour to brainstorm about the main topic . 
+Schedule an appointment with  North,  Campbell, and  Fraser on <START:datetime> Apr 5 2015 at 1:10PM <END> for 4 hours to discuss the contract . 
+Schedule a meeting with  Harris on <START:datetime> Feb 11 2016 at 3:15PM <END> for 45 minutes to chat about the case . 
+Please schedule an appointment with  Dyer,  Oliver, and  Wilkins on <START:datetime> May 25 2015 at 3:45 AM <END> for 1 hour to discuss economic trends . 
+Please create a meeting with  Thomson and  Russell on <START:datetime> November 20 2015 at 10:45AM <END> for 2 hours to talk about our hiring process . 
+Schedule an appointment with  Quinn,  Davies, and  Jones on <START:datetime> June 25 2015 at 07:45AM <END> for 1 hour to discuss the contract . 
+Create an appointment with  Young and  Nash on <START:datetime> Sep 10 2015 at 9:30 PM <END> for 1 hour to review the summary statistics . 
+Need a meeting with  Hughes,  Hamilton, and  Gibson on <START:datetime> June 23 2015 at 12:00 AM <END> for 45 minutes to discuss our hiring process . 
+Need a meeting with  Watson,  Russell, and  Stewart on <START:datetime> April 28 2015 at 2:30 AM <END> for 15 minutes to brainstorm about our QA strategy . 
+Please create an appointment with  Allan,  Jones, and  Walsh on <START:datetime> July 16 2015 at 3:15 PM <END> for 6 hours to talk about our hiring process . 
+Schedule an appointment with  Paige and  Johnston on <START:datetime> June 10 2015 at 02:15AM <END> for 10 hours to brainstorm about the contract . 
+Create a meeting with  Paige on <START:datetime> October 19 2015 at 6:00 PM <END> for 45 minutes to chat about the case . 
+Schedule an appointment with  McDonald,  Avery, and  Kelly on <START:datetime> June 12 2015 at 10:30 AM <END> for 3 hours to discuss our hiring process . 
+Create an appointment with  Gill,  Quinn, and  Morrison on <START:datetime> Jun 14 2015 at 3:15AM <END> for 2 hours to discuss our hiring process . 
+Create an appointment with  Greene on <START:datetime> March 25 2015 at 08:15AM <END> for 5 hours to discuss our QA approach . 
+Need an appointment with  Quinn and  Berry on <START:datetime> September 30 2015 at 12:10AM <END> for 8 hours to brainstorm about the main topic . 
+Need an appointment with  Gibson,  Parr, and  Welch on <START:datetime> Jul 24 2015 at 3:30PM <END> for 30 minutes to discuss the contract . 
+Create an appointment with  Harris and  Cameron on <START:datetime> June 28 2015 at 02:45PM <END> for 8 hours to discuss economic trends . 
+Create an appointment with  Clarkson on <START:datetime> September 23 2015 at 02:15AM <END> for 1 hour to fine tune our pitch . 
+Schedule a meeting with  Simpson,  Peters, and  Manning on <START:datetime> Oct 7 2015 at 11:00AM <END> for 1 hour to review the summary statistics . 
+Schedule a meeting with  Manning on <START:datetime> Oct 7 2015 at 6:10 PM <END> for 30 minutes to brainstorm about our testing strategy . 
+Please schedule an appointment with  Morrison on <START:datetime> Mar 7 2016 at 10:45AM <END> for 2 hours to discuss the contract . 
+Need an appointment with  May on <START:datetime> Mar 25 2015 at 6:15 PM <END> for 15 minutes to fine tune the points . 
+Please schedule a meeting with  Sanderson and  Walker on <START:datetime> Feb 18 2016 at 9:30AM <END> for 45 minutes to discuss our hiring process . 
+Create a meeting with  Sanderson,  Powell, and  Marshall on <START:datetime> August 28 2015 at 11:00PM <END> for 10 hours to have a brief discussion . 
+Please create an appointment with  Lambert on <START:datetime> February 12 2016 at 7:15 PM <END> for 4 hours to discuss our hiring process . 
+Please create a meeting with  Bell,  Quinn, and  Marshall on <START:datetime> Jan 28 2016 at 2:30 AM <END> for 15 minutes to brainstorm about our testing strategy . 
+Please schedule an appointment with  Parr on <START:datetime> August 22 2015 at 7:10 AM <END> for 7 hours to brainstorm about our QA strategy . 
+Create a meeting with  Roberts on <START:datetime> November 11 2015 at 8:30 PM <END> for 6 hours to review the summary statistics . 
+Need a meeting with  Wilkins,  Wright, and  Wilson on <START:datetime> May 17 2015 at 6:30PM <END> for 7 hours to brainstorm about the main topic . 
+Please schedule a meeting with  Stewart on <START:datetime> Mar 16 2016 at 12:15PM <END> for 9 hours to discuss our QA approach . 
+Please create an appointment with  Simpson,  Ince, and  Paige on <START:datetime> Dec 28 2015 at 4:00 AM <END> for 30 minutes to fine tune the points . 
+Please create an appointment with  Gill,  Anderson, and  Bell on <START:datetime> Nov 1 2015 at 2:00AM <END> for 2 hours to review the summary statistics . 
+Please create an appointment with  Jones on <START:datetime> February 7 2016 at 8:10 PM <END> for 45 minutes to review the summary statistics . 
+Need a meeting with  Poole,  King, and  Rutherford on <START:datetime> Oct 12 2015 at 4:00 PM <END> for 4 hours to discuss world peace . 
+Create an appointment with  Knox and  Sutherland on <START:datetime> Jun 16 2015 at 8:45AM <END> for 8 hours to fine tune our pitch . 
+Create a meeting with  Cornish on <START:datetime> Apr 26 2015 at 11:30PM <END> for 1 hour to discuss world peace . 
+Need an appointment with  Peters and  Parsons on <START:datetime> January 28 2016 at 5:15 AM <END> for 30 minutes to review the summary statistics . 
+Need a meeting with  Duncan on <START:datetime> April 16 2015 at 10:10 AM <END> for 15 minutes to talk about our hiring process . 
+Need an appointment with  Rampling on <START:datetime> September 28 2015 at 8:10 AM <END> for 7 hours to brainstorm about the main topic . 
+Please create a meeting with  White on <START:datetime> Mar 27 2015 at 7:10PM <END> for 1 hour to fine tune the points . 
+Create a meeting with  Welch on <START:datetime> Sep 21 2015 at 9:30 PM <END> for 10 hours to discuss the contract . 
+Need a meeting with  Baker,  Metcalfe, and  Morgan on <START:datetime> Mar 6 2016 at 2:45 PM <END> for 10 hours to discuss the contract . 
+Please schedule an appointment with  McDonald and  Graham on <START:datetime> February 12 2016 at 03:30AM <END> for 7 hours to discuss our testing strategy . 
+Create a meeting with  Terry on <START:datetime> October 27 2015 at 12:00 AM <END> for 9 hours to review the summary statistics . 
+Need an appointment with  Avery on <START:datetime> Feb 21 2016 at 12:15 PM <END> for 1 hour to discuss world peace . 
+Need an appointment with  Vaughan,  Kerr, and  Nash on <START:datetime> February 27 2016 at 6:45 AM <END> for 2 hours to brainstorm about our QA strategy . 
+Need an appointment with  Blake,  Allan, and  Grant on <START:datetime> Jun 25 2015 at 6:30 PM <END> for 2 hours to discuss our hiring process . 
+Need an appointment with  Duncan and  Walsh on <START:datetime> June 5 2015 at 12:15 AM <END> for 15 minutes to brainstorm about the contract . 
+Schedule an appointment with  Ince on <START:datetime> July 15 2015 at 4:00 AM <END> for 1 hour to review the summary statistics . 
+Need a meeting with  Ball,  Ferguson, and  Mills on <START:datetime> Aug 26 2015 at 7:00 PM <END> for 4 hours to brainstorm about the contract . 
+Need a meeting with  Wallace and  Johnston on <START:datetime> Oct 27 2015 at 2:30 AM <END> for 10 hours to brainstorm about the contract . 
+Need an appointment with  Chapman and  Harris on <START:datetime> May 17 2015 at 09:00AM <END> for 15 minutes to discuss our hiring process . 
+Create an appointment with  Newman on <START:datetime> Mar 30 2015 at 1:15 PM <END> for 15 minutes to brainstorm about the contract . 
+Need an appointment with  Terry and  MacDonald on <START:datetime> June 14 2015 at 10:30 PM <END> for 9 hours to fine tune our pitch . 
+Need a meeting with  Allan and  Roberts on <START:datetime> Aug 14 2015 at 8:15PM <END> for 3 hours to have a brief discussion . 
+Schedule an appointment with  Russell,  Walker, and  Glover on <START:datetime> Dec 25 2015 at 3:10 PM <END> for 45 minutes to chat about the case . 
+Please schedule a meeting with  Short and  Bower on <START:datetime> July 27 2015 at 8:00 AM <END> for 45 minutes to have a brief discussion . 
+Schedule an appointment with  Hemmings on <START:datetime> Apr 3 2015 at 8:30 AM <END> for 4 hours to brainstorm about the main topic . 
+Please schedule a meeting with  Robertson,  Metcalfe, and  Newman on <START:datetime> Aug 5 2015 at 12:15 AM <END> for 30 minutes to discuss our hiring process . 
+Schedule an appointment with  Vaughan and  Wallace on <START:datetime> October 9 2015 at 10:45 PM <END> for 15 minutes to review the summary statistics . 
+Create an appointment with  Hunter and  Alsop on <START:datetime> Feb 28 2016 at 2:45PM <END> for 8 hours to fine tune the points . 
+Create a meeting with  Davies on <START:datetime> June 27 2015 at 10:45AM <END> for 9 hours to discuss our QA approach . 
+Please schedule a meeting with  Johnston,  Pullman, and  Sharp on <START:datetime> May 29 2015 at 02:00PM <END> for 2 hours to review the summary statistics . 
+Please create an appointment with  Brown and  Cameron on <START:datetime> September 7 2015 at 5:30 PM <END> for 3 hours to brainstorm about the contract . 
+Need an appointment with  Glover,  Welch, and  Grant on <START:datetime> May 20 2015 at 04:00AM <END> for 9 hours to review the summary statistics . 
+Please schedule an appointment with  Gibson,  Brown, and  Lewis on <START:datetime> August 23 2015 at 7:15 AM <END> for 7 hours to brainstorm about the main topic . 
+Please create an appointment with  Forsyth and  Abraham on <START:datetime> March 20 2016 at 4:10 AM <END> for 3 hours to discuss our QA approach . 
+Need an appointment with  Clark and  Clarkson on <START:datetime> Jun 28 2015 at 4:45AM <END> for 5 hours to brainstorm about our QA strategy . 
+Need a meeting with  Ball on <START:datetime> August 3 2015 at 5:30 PM <END> for 1 hour to chat about the case . 
+Need an appointment with  Hunter,  Nash, and  Simpson on <START:datetime> May 19 2015 at 7:10 PM <END> for 8 hours to discuss the contract . 
+Create an appointment with  Randall on <START:datetime> August 11 2015 at 11:10 PM <END> for 15 minutes to discuss our hiring process . 
+Need a meeting with  Alsop and  Baker on <START:datetime> Jun 21 2015 at 4:00PM <END> for 3 hours to review the summary statistics . 
+Schedule an appointment with  Roberts on <START:datetime> June 7 2015 at 04:10PM <END> for 4 hours to discuss our testing strategy . 
+Create an appointment with  Welch and  Hamilton on <START:datetime> Feb 25 2016 at 2:30AM <END> for 10 hours to brainstorm about the contract . 
+Need an appointment with  Chapman on <START:datetime> November 8 2015 at 8:15 AM <END> for 4 hours to discuss the contract . 
+Need a meeting with  Hudson and  Johnston on <START:datetime> May 2 2015 at 6:30 PM <END> for 8 hours to brainstorm about the main topic . 
+Please create an appointment with  Ferguson and  Ogden on <START:datetime> May 21 2015 at 02:30AM <END> for 15 minutes to brainstorm about our testing strategy . 
+Create a meeting with  Sutherland,  Coleman, and  Kerr on <START:datetime> Oct 21 2015 at 2:10AM <END> for 45 minutes to brainstorm about the main topic . 
+Schedule an appointment with  McLean,  Kerr, and  Roberts on <START:datetime> Jun 4 2015 at 1:45AM <END> for 7 hours to chat about the case . 
+Please create an appointment with  Mackay on <START:datetime> May 16 2015 at 11:00PM <END> for 7 hours to review the summary statistics . 
+Please create a meeting with  Knox,  Russell, and  Hill on <START:datetime> May 22 2015 at 6:30 AM <END> for 9 hours to brainstorm about the contract . 
+Need an appointment with  Marshall,  Buckland, and  Burgess on <START:datetime> Feb 28 2016 at 8:30AM <END> for 45 minutes to discuss our hiring process . 
+Please create a meeting with  McDonald and  Roberts on <START:datetime> Feb 4 2016 at 2:30 PM <END> for 15 minutes to discuss our QA approach . 
+Please schedule a meeting with  Peters,  Wilson, and  Hodges on <START:datetime> May 6 2015 at 1:00AM <END> for 8 hours to talk about our hiring process . 
+Schedule an appointment with  Abraham and  Knox on <START:datetime> April 19 2015 at 10:15 PM <END> for 3 hours to talk about our hiring process . 
+Create an appointment with  Miller,  Paige, and  Davidson on <START:datetime> Jan 9 2016 at 2:30 AM <END> for 15 minutes to have a brief discussion . 
+Please create a meeting with  Campbell,  Turner, and  Dowd on <START:datetime> April 16 2015 at 10:30 AM <END> for 30 minutes to chat about the case . 
+Please schedule a meeting with  Mackenzie on <START:datetime> Jul 22 2015 at 7:30PM <END> for 10 hours to discuss the contract . 
+Please schedule an appointment with  Avery on <START:datetime> September 17 2015 at 05:30AM <END> for 10 hours to talk about our hiring process . 
+Schedule a meeting with  King on <START:datetime> Oct 15 2015 at 1:45 PM <END> for 9 hours to brainstorm about the main topic . 
+Create a meeting with  Terry and  McGrath on <START:datetime> Jun 7 2015 at 2:10PM <END> for 3 hours to discuss our hiring process . 
+Please create an appointment with  James on <START:datetime> Jan 14 2016 at 10:45 PM <END> for 10 hours to discuss our hiring process . 
+Please schedule an appointment with  McGrath on <START:datetime> May 31 2015 at 8:10 PM <END> for 9 hours to chat about the case . 
+Need a meeting with  Springer,  Black, and  Gray on <START:datetime> September 18 2015 at 02:10AM <END> for 5 hours to discuss economic trends . 
+Schedule an appointment with  Mackay,  Kelly, and  Chapman on <START:datetime> Dec 11 2015 at 3:15 PM <END> for 2 hours to discuss world peace . 
+Create an appointment with  Dyer on <START:datetime> December 11 2015 at 01:15AM <END> for 9 hours to brainstorm about the contract . 
+Need an appointment with  Cornish and  Knox on <START:datetime> March 15 2016 at 3:30 PM <END> for 8 hours to fine tune our pitch . 
+Schedule an appointment with  King,  Graham, and  Coleman on <START:datetime> Feb 11 2016 at 9:00 AM <END> for 45 minutes to fine tune our pitch . 
+Create an appointment with  Walsh on <START:datetime> July 16 2015 at 6:15 AM <END> for 1 hour to discuss economic trends . 
+Please create a meeting with  Terry and  Peters on <START:datetime> August 18 2015 at 01:15PM <END> for 6 hours to discuss our hiring process . 
+Please schedule a meeting with  Wright and  Piper on <START:datetime> January 7 2016 at 6:10 PM <END> for 30 minutes to discuss the contract . 
+Need a meeting with  Fisher,  Poole, and  Jones on <START:datetime> November 20 2015 at 10:30 PM <END> for 10 hours to brainstorm about our testing strategy . 
+Schedule a meeting with  Lyman and  Mackay on <START:datetime> Aug 13 2015 at 12:15AM <END> for 3 hours to discuss our testing strategy . 
+Schedule an appointment with  Reid,  Paterson, and  Kerr on <START:datetime> March 23 2015 at 2:15 PM <END> for 6 hours to talk about our hiring process . 
+Need an appointment with  Rutherford on <START:datetime> November 24 2015 at 5:00 PM <END> for 8 hours to discuss our testing strategy . 
+Need a meeting with  Newman on <START:datetime> March 29 2015 at 12:30AM <END> for 5 hours to discuss our hiring process . 
+Please schedule a meeting with  Nash and  Walsh on <START:datetime> Jul 11 2015 at 3:30 PM <END> for 45 minutes to fine tune our pitch . 
+Create a meeting with  Harris,  Rees, and  Hamilton on <START:datetime> Dec 22 2015 at 2:30AM <END> for 4 hours to have a brief discussion . 
+Please schedule a meeting with  Turner,  Ross, and  Quinn on <START:datetime> January 14 2016 at 10:30PM <END> for 3 hours to discuss the contract . 
+Please schedule an appointment with  Allan on <START:datetime> May 18 2015 at 09:45AM <END> for 5 hours to have a brief discussion . 
+Please schedule an appointment with  Ince,  Gibson, and  Clarkson on <START:datetime> July 31 2015 at 12:00AM <END> for 4 hours to discuss our QA approach . 
+Create a meeting with  Miller and  Gill on <START:datetime> Jan 17 2016 at 12:15 PM <END> for 3 hours to discuss world peace . 
+Please schedule an appointment with  Parr on <START:datetime> Jun 7 2015 at 3:30 PM <END> for 10 hours to chat about the case . 
+Schedule a meeting with  Pullman,  Robertson, and  Poole on <START:datetime> June 1 2015 at 8:30 AM <END> for 9 hours to discuss economic trends . 
+Need a meeting with  Paterson on <START:datetime> Apr 17 2015 at 4:10 PM <END> for 2 hours to brainstorm about the contract . 
+Please create a meeting with  Sutherland on <START:datetime> May 14 2015 at 8:00 AM <END> for 8 hours to discuss our hiring process . 
+Need a meeting with  Simpson and  Morgan on <START:datetime> January 17 2016 at 01:00AM <END> for 3 hours to discuss world peace . 
+Create a meeting with  Stewart and  North on <START:datetime> April 21 2015 at 02:15PM <END> for 4 hours to brainstorm about the contract . 
+Create a meeting with  Manning,  Greene, and  Reid on <START:datetime> November 4 2015 at 07:00AM <END> for 3 hours to brainstorm about the main topic . 
