@@ -1,7 +1,9 @@
 (ns nlp.training.time
   "Function to train a better (than the NER provided by OpenNLP)
    date/time model."
-  (:use [nlp.training.core :as traincore ] )
+  (:use [nlp.training.core :as traincore ]
+        [nlp.time.core :as timec]
+        [nlp.math-utils :as utils])
   (:require
    [opennlp.nlp :as nlp]
    [opennlp.tools.train :as train]
@@ -30,9 +32,22 @@
   )
 
 (defn generate-datetime-tagged
+  "Randomly generates a datetime or a date noun (today, tomorrow, Monday, etc.)
+   and wraps it with an named entity recognition tag."
   []
-  (str "<START:datetime> " (rand-datetime formatters) " <END>")
-  )
+  (utils/select-randomly-between
+   (str "<START:datetime> " (rand-datetime formatters) " <END>")
+   (str "<START:datetime> " (utils/select-randomly-among (keys timec/date-nouns ) ) " <END>")
+   ))
+
+(defn generate-datetime-for-testing
+  "Randomly generates a datetime or a date noun (today, tomorrow, Monday, etc.)
+   without the NER tag - for testing purposes."
+  []
+  (utils/select-randomly-between
+   (str (rand-datetime formatters) )
+   (str (utils/select-randomly-among (keys timec/date-nouns ) ) )
+   ))
 
 
 (defn generate-sentences-for-datetime-training
@@ -98,7 +113,7 @@
               :data-firstname last-names
               :data-requests  request-clauses
               :data-subjects  subject-clauses}
-        generators {:gen-datetime traincore/generate-datetime
+        generators {:gen-datetime generate-datetime-for-testing
                     :gen-duration traincore/generate-duration
                     :gen-subject  traincore/generate-subject
                     :gen-request  traincore/generate-request-clause}
